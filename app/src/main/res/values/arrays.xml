@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Default">
+        <item>Autour One</item>
+        <item>Asset</item>
+        <item>Aldrich</item>
+        <item>Cherry Cream Soda</item>
+    </string-array>
+    </resources>

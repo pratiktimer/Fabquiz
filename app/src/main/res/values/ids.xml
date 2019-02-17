@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">956565292881</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">google.com.fabquiz2</string>
+    <!-- achievement Starter -->
+    <string name="achievement_starter" translatable="false">CgkI0Y7wvesbEAIQAw</string>
+    <!-- achievement Starter II -->
+    <string name="achievement_starter_ii" translatable="false">CgkI0Y7wvesbEAIQBQ</string>
+    <!-- achievement Starter III -->
+    <string name="achievement_starter_iii" translatable="false">CgkI0Y7wvesbEAIQBg</string>
+    <!-- achievement Fighter I -->
+    <string name="achievement_fighter_i" translatable="false">CgkI0Y7wvesbEAIQBw</string>
+    <!-- achievement Fighter II -->
+    <string name="achievement_fighter_ii" translatable="false">CgkI0Y7wvesbEAIQCA</string>
+    <!-- achievement Fighter III -->
+    <string name="achievement_fighter_iii" translatable="false">CgkI0Y7wvesbEAIQCQ</string>
+    <!-- achievement Challenge -->
+    <string name="achievement_challenge" translatable="false">CgkI0Y7wvesbEAIQAg</string>
+    <!-- achievement Real Fighter -->
+    <string name="achievement_real_fighter" translatable="false">CgkI0Y7wvesbEAIQJA</string>
+    <!-- achievement Real Fighter II -->
+    <string name="achievement_real_fighter_ii" translatable="false">CgkI0Y7wvesbEAIQJQ</string>
+    <!-- achievement Real Fighter III -->
+    <string name="achievement_real_fighter_iii" translatable="false">CgkI0Y7wvesbEAIQJg</string>
+    <!-- leaderboard English -->
+    <string name="leaderboard_english" translatable="false">CgkI0Y7wvesbEAIQBA</string>
+    <!-- leaderboard Hollywood -->
+    <string name="leaderboard_hollywood" translatable="false">CgkI0Y7wvesbEAIQCg</string>
+    <!-- leaderboard Bollywood -->
+    <string name="leaderboard_bollywood" translatable="false">CgkI0Y7wvesbEAIQCw</string>
+    <!-- leaderboard Computer Science -->
+    <string name="leaderboard_computer_science" translatable="false">CgkI0Y7wvesbEAIQDA</string>
+    <!-- leaderboard General Knowledge -->
+    <string name="leaderboard_general_knowledge" translatable="false">CgkI0Y7wvesbEAIQDQ</string>
+    <!-- leaderboard Cricket -->
+    <string name="leaderboard_cricket" translatable="false">CgkI0Y7wvesbEAIQDg</string>
+</resources>

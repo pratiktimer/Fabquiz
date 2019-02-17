@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:endColor="#333643" android:startColor="#333643" />
+        </shape>
+    </item>
+    <item android:top="15dp">
+        <bitmap
+            android:src="@mipmap/fqlogo"
+            android:gravity="top|center" />
+    </item>
+
+</layer-list>

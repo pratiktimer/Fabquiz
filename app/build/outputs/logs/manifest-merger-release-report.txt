@@ -1,0 +1,1057 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:2:1-86:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\AndroidManifest.xml:17:1-24:12
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\360a4129cbd69d3949bc9a743392a001\AndroidManifest.xml:2:1-17:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\9b1fee9894bba3fd669504b48d87d926\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\3050c45c6339998f485738d7db3b4780\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\b7ea1de1a0484b6979f92dace2165574\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\fc6e5d1f70a2187dad64548204b43ee5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\a348fcdcfc92ae630ef8956ec1fa5103\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\9fe937452abecc639aad465913ec6164\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\6e18a23d056673d55ce371b96e7c157c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\bbdbb82ba88acc4ee8ec19cf0494a592\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-invites:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-invites-11.8.0.aar\978a48af1d7307897bd2be42e29ee9ec\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\a1a93c076d6c3ec15ed9f1d7e6d4107f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\4960484ed80a4e11f68324e6451c66e2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\2613728157b9948f36f99e12b4cb800a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\955af9304c4e5e14a928e66b5a6e3b82\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\5f0b28f581bddf8fdc51a308d48c5960\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\8ffa23948c3e596c579a01dce0d5e6e5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\6e60bb672528494f18ffa1a81b3e7e5d\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\215c6ebd564024f28e13df974441288b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\f81d42bbcfa3b2bb09e518d76024413e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2fe14799651c92d2ab5e91a5573255c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\customtabs-28.0.0.aar\3c96e1df577b250497cbac68c274fc7a\AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:picasso-transformations:2.1.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\picasso-transformations-2.1.2.aar\60d821323c76130968818569f7427f9b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.nisrulz:screenshott:2.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\screenshott-2.0.0.aar\b33bd76e22f3b1db1f09b29350ceacd4\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c7d60ea9213e704ed08d17c71dfa3271\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\71f1fde010bbc45e057cedb32ef9c235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta5.aar\03691646813e04f580637b75684984ec\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\5d5c261d4d7322669c2799d1b38fd8bd\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\41150454ed5637df438755b2d5ce0563\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8c6ef0a3ba33d5320b15c785d6bc772f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\286ed9377b727cf0c2a2fe7bca28fbd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\97e177f4588ed01f73df48959b8626fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f0a9b30219abf58b79c42141e8e352c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f85e66246f24d3eab0a5fa7839ab9059\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1c2a2f6c74daedac8e7db4bd24124e0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\648b9bb58454885a323afb7bd0aa422e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\83111842c4b335fc6774f329114d5ab3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e7fce8bf71f48632c1a485b9829c38cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\54c27e8db296cc8ea2bb428005a323ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d5cc7020072b8c8cf2e16a9aa6e148ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4d818b3087224eed01a0e6124fb34404\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0868078033d77890b6f61e37d903749c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e8f5aca5c7af3eba0b861cbd88958710\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c3d69578eaeb4a0c7cee5d254b6a611c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\878c7031a6027386c5ec26ae0d9bd8e1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7ca104b1010b00d30bbd759380efa343\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b04f89e6795eec9d59db141d8a6a21d4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a0269187b46bf30cf394311c35cf31b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1b676d729638714b4a5594e51c4e0763\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3ed6eab1eab6a6d08013f48dbb4281b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5e952dcdedf266e85f7f49304394f2e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\77e132733e43980df51489acf097aa81\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b0e407ed1d009a8cd941098a57a1145a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b31274ac68f3eb65555efa35b634cb02\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bb57521e57c4c2343ec12b67ab4ac977\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e6b233594f8bf4765e0f9dde9c3903f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\843751011a7e3e4934f6dbd4dc0ece63\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\fb4a16acb73d5af71a2a48835c9196b4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\0b038a061e5810f424b21c94a01a4a32\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\24c6ba65f6136b4ccb2578f946e02457\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\a26e0b1f9aa25d9844bb81fe2e269496\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\d0b9289c59922f9c768dfcfb73b2d03d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\04ee108afcc8ccc1c8993e65c81d4418\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\9e0d8774e13ed1c97f16b09debee01a0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\3ac38df4e18e43a2e44a0ef534f77d73\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\7e388cbec875a6aaf7d7526fdaab332b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\de5e7135c01efb7acc57397899009909\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\904e1fc1a50ef8a96f0a26f86f5bfa76\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\06c4e1fbeeae876b41962a6887c3136f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\037a7e44df5b29195fdd6f5f089da35d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\05569adc98cffdd508b859d470ffbe0f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\55ba6127e7065f464c301632d61f46ac\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\72f1a18dfca352e46fd7bd351be53ead\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\f235ccf981c141d95361f19c167ec3b6\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\d3c8659d4452f094b4bf8b07389f2c21\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\c7363ed71011986ae70df9e93aa1b743\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\9ca54af406c60dce642fde0bda1ffb34\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d0e2f9690de3c84be1d989a2dfd8cc53\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\85d4580ad77768f3209b6a8b4561a0e8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\ee797c51f5908285dc7bbc23c87f4ce9\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+	package
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:1-182:12
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:5:5-6:34
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:12:5-79
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:24:5-79
+	android:required
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:6:9-32
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:7:5-9:35
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:23:5-67
+	android:required
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:8:9-51
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:10:5-11:34
+	android:required
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:14:5-15:34
+	android:required
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:16:5-18:35
+	android:required
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:18:9-32
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:17:9-56
+uses-feature#android.hardware.camera
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:19:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:20:22-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:21:5-23:35
+	android:required
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:23:9-32
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:22:9-60
+application
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:25:5-180:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:15:5-84:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:15:5-84:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\AndroidManifest.xml:22:5-20
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:13:5-17:19
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\360a4129cbd69d3949bc9a743392a001\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\360a4129cbd69d3949bc9a743392a001\AndroidManifest.xml:11:5-15:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\AndroidManifest.xml:13:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\a348fcdcfc92ae630ef8956ec1fa5103\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\a348fcdcfc92ae630ef8956ec1fa5103\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\9fe937452abecc639aad465913ec6164\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\9fe937452abecc639aad465913ec6164\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-invites:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-invites-11.8.0.aar\978a48af1d7307897bd2be42e29ee9ec\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-invites:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-invites-11.8.0.aar\978a48af1d7307897bd2be42e29ee9ec\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\a1a93c076d6c3ec15ed9f1d7e6d4107f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\a1a93c076d6c3ec15ed9f1d7e6d4107f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\4960484ed80a4e11f68324e6451c66e2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\4960484ed80a4e11f68324e6451c66e2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\2613728157b9948f36f99e12b4cb800a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\2613728157b9948f36f99e12b4cb800a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\8ffa23948c3e596c579a01dce0d5e6e5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\8ffa23948c3e596c579a01dce0d5e6e5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\215c6ebd564024f28e13df974441288b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\215c6ebd564024f28e13df974441288b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\f81d42bbcfa3b2bb09e518d76024413e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\f81d42bbcfa3b2bb09e518d76024413e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.nisrulz:screenshott:2.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\screenshott-2.0.0.aar\b33bd76e22f3b1db1f09b29350ceacd4\AndroidManifest.xml:27:5-28:19
+MERGED from [com.github.nisrulz:screenshott:2.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\screenshott-2.0.0.aar\b33bd76e22f3b1db1f09b29350ceacd4\AndroidManifest.xml:27:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta5.aar\03691646813e04f580637b75684984ec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta5.aar\03691646813e04f580637b75684984ec\AndroidManifest.xml:9:5-20
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\5d5c261d4d7322669c2799d1b38fd8bd\AndroidManifest.xml:12:5-20
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\5d5c261d4d7322669c2799d1b38fd8bd\AndroidManifest.xml:12:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\41150454ed5637df438755b2d5ce0563\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\41150454ed5637df438755b2d5ce0563\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\878c7031a6027386c5ec26ae0d9bd8e1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\878c7031a6027386c5ec26ae0d9bd8e1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b04f89e6795eec9d59db141d8a6a21d4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b04f89e6795eec9d59db141d8a6a21d4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\843751011a7e3e4934f6dbd4dc0ece63\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\843751011a7e3e4934f6dbd4dc0ece63\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\fb4a16acb73d5af71a2a48835c9196b4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\fb4a16acb73d5af71a2a48835c9196b4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\0b038a061e5810f424b21c94a01a4a32\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\0b038a061e5810f424b21c94a01a4a32\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\24c6ba65f6136b4ccb2578f946e02457\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\24c6ba65f6136b4ccb2578f946e02457\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\a26e0b1f9aa25d9844bb81fe2e269496\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\a26e0b1f9aa25d9844bb81fe2e269496\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\d0b9289c59922f9c768dfcfb73b2d03d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\d0b9289c59922f9c768dfcfb73b2d03d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\04ee108afcc8ccc1c8993e65c81d4418\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\04ee108afcc8ccc1c8993e65c81d4418\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\9e0d8774e13ed1c97f16b09debee01a0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\9e0d8774e13ed1c97f16b09debee01a0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\3ac38df4e18e43a2e44a0ef534f77d73\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\3ac38df4e18e43a2e44a0ef534f77d73\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\7e388cbec875a6aaf7d7526fdaab332b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\7e388cbec875a6aaf7d7526fdaab332b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\de5e7135c01efb7acc57397899009909\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\de5e7135c01efb7acc57397899009909\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\904e1fc1a50ef8a96f0a26f86f5bfa76\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\904e1fc1a50ef8a96f0a26f86f5bfa76\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\06c4e1fbeeae876b41962a6887c3136f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\06c4e1fbeeae876b41962a6887c3136f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\037a7e44df5b29195fdd6f5f089da35d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\037a7e44df5b29195fdd6f5f089da35d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\05569adc98cffdd508b859d470ffbe0f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\05569adc98cffdd508b859d470ffbe0f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\55ba6127e7065f464c301632d61f46ac\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\55ba6127e7065f464c301632d61f46ac\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\72f1a18dfca352e46fd7bd351be53ead\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\72f1a18dfca352e46fd7bd351be53ead\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\f235ccf981c141d95361f19c167ec3b6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\f235ccf981c141d95361f19c167ec3b6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\d3c8659d4452f094b4bf8b07389f2c21\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\d3c8659d4452f094b4bf8b07389f2c21\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\c7363ed71011986ae70df9e93aa1b743\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\c7363ed71011986ae70df9e93aa1b743\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\9ca54af406c60dce642fde0bda1ffb34\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\9ca54af406c60dce642fde0bda1ffb34\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d0e2f9690de3c84be1d989a2dfd8cc53\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d0e2f9690de3c84be1d989a2dfd8cc53\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\85d4580ad77768f3209b6a8b4561a0e8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\85d4580ad77768f3209b6a8b4561a0e8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\ee797c51f5908285dc7bbc23c87f4ce9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\ee797c51f5908285dc7bbc23c87f4ce9\AndroidManifest.xml:5:5-20
+	tools:node
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:33:9-27
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\878c7031a6027386c5ec26ae0d9bd8e1\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:29:9-41
+	android:roundIcon
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:30:9-44
+	android:icon
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:28:9-39
+	android:allowBackup
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:27:9-35
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:26:9-49
+provider#android.support.v4.content.FileProvider
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:38:13-67
+	android:exported
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:37:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:41:13-43:54
+	android:resource
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:43:17-51
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:42:17-67
+activity#google.com.fabquiz.MainActivity
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:46:9-56:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:48:13-48
+	android:theme
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:50:13-44
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:47:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:54:27-73
+activity#online.Category.ScrollingActivity2
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:57:9-60:52
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:60:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:59:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:58:13-62
+activity#online.Category.GetCategory
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:61:9-70:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:64:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:63:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:62:13-55
+activity#google.com.fabquiz.multiplayer
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:71:9-76:36
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:71:19-46
+activity#online.Category.OnlineResult
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:77:9-86:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:80:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:79:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:78:13-56
+activity#google.com.fabquiz.ScreenshotAnswer.CheckAnswer
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:87:9-96:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:90:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:89:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:88:13-57
+activity#google.com.fabquiz.multiplayers.multiplayers
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:97:9-106:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:100:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:99:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:98:13-54
+activity#google.com.fabquiz.Login.Login
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:107:9-116:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:110:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:109:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:108:13-40
+activity#google.com.fabquiz.recyclerviewsearch.MainActivity
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:118:9-127:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:121:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:120:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:119:13-60
+activity#google.com.fabquiz.multiplayers.GetMultiplayerResult
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:128:9-137:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:131:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:130:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:129:13-62
+activity#google.com.fabquiz.SplahScreen
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:138:9-148:20
+	android:screenOrientation
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:142:13-49
+	android:configChanges
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:140:13-48
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:139:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:143:13-147:29
+category#android.intent.category.LAUNCHER
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:146:17-77
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:146:27-74
+service#google.com.fabquiz.database.serv
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:149:9-151:38
+	android:enabled
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:151:13-35
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:150:13-42
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:153:9-155:71
+	android:value
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:155:13-68
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:154:13-89
+meta-data#preloaded_fonts
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:156:9-158:57
+	android:resource
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:158:13-54
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:157:13-43
+receiver#google.com.fabquiz.Internet.ConnectionReceiver
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:159:9-165:20
+	android:enabled
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:161:13-35
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:160:13-56
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:162:13-164:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:163:17-79
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:163:25-76
+service#google.com.fabquiz.Nougat.NetworkSchedulerService
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:166:9-169:71
+	android:exported
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:168:13-36
+	android:permission
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:169:13-69
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:167:13-59
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:170:9-171:46
+	android:value
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:171:13-43
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:170:20-70
+meta-data#com.google.android.gms.version
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:172:9-173:68
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:16:9-18:69
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:16:9-18:69
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:14:9-16:69
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\f81d42bbcfa3b2bb09e518d76024413e\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\f81d42bbcfa3b2bb09e518d76024413e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:173:13-66
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:172:20-65
+service#google.com.fabquiz.multiplayers.FirebaseMessagingService
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:174:9-179:19
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:175:13-66
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:176:13-178:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:177:17-77
+	android:name
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml:177:25-75
+uses-sdk
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\2252935ee57cb173706b160737868e3d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\360a4129cbd69d3949bc9a743392a001\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\360a4129cbd69d3949bc9a743392a001\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\9b1fee9894bba3fd669504b48d87d926\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\9b1fee9894bba3fd669504b48d87d926\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\3050c45c6339998f485738d7db3b4780\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\3050c45c6339998f485738d7db3b4780\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\b7ea1de1a0484b6979f92dace2165574\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\b7ea1de1a0484b6979f92dace2165574\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\fc6e5d1f70a2187dad64548204b43ee5\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\fc6e5d1f70a2187dad64548204b43ee5\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\a348fcdcfc92ae630ef8956ec1fa5103\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\a348fcdcfc92ae630ef8956ec1fa5103\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\9fe937452abecc639aad465913ec6164\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\9fe937452abecc639aad465913ec6164\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\6e18a23d056673d55ce371b96e7c157c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\6e18a23d056673d55ce371b96e7c157c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\bbdbb82ba88acc4ee8ec19cf0494a592\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\bbdbb82ba88acc4ee8ec19cf0494a592\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-invites:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-invites-11.8.0.aar\978a48af1d7307897bd2be42e29ee9ec\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-invites:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-invites-11.8.0.aar\978a48af1d7307897bd2be42e29ee9ec\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\a1a93c076d6c3ec15ed9f1d7e6d4107f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\a1a93c076d6c3ec15ed9f1d7e6d4107f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\4960484ed80a4e11f68324e6451c66e2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\4960484ed80a4e11f68324e6451c66e2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\2613728157b9948f36f99e12b4cb800a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\2613728157b9948f36f99e12b4cb800a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\955af9304c4e5e14a928e66b5a6e3b82\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\955af9304c4e5e14a928e66b5a6e3b82\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\5f0b28f581bddf8fdc51a308d48c5960\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\5f0b28f581bddf8fdc51a308d48c5960\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\8ffa23948c3e596c579a01dce0d5e6e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\8ffa23948c3e596c579a01dce0d5e6e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\6e60bb672528494f18ffa1a81b3e7e5d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\6e60bb672528494f18ffa1a81b3e7e5d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\215c6ebd564024f28e13df974441288b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\215c6ebd564024f28e13df974441288b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\f81d42bbcfa3b2bb09e518d76024413e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\f81d42bbcfa3b2bb09e518d76024413e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2fe14799651c92d2ab5e91a5573255c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2fe14799651c92d2ab5e91a5573255c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\customtabs-28.0.0.aar\3c96e1df577b250497cbac68c274fc7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\customtabs-28.0.0.aar\3c96e1df577b250497cbac68c274fc7a\AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:picasso-transformations:2.1.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\picasso-transformations-2.1.2.aar\60d821323c76130968818569f7427f9b\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:picasso-transformations:2.1.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\picasso-transformations-2.1.2.aar\60d821323c76130968818569f7427f9b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.nisrulz:screenshott:2.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\screenshott-2.0.0.aar\b33bd76e22f3b1db1f09b29350ceacd4\AndroidManifest.xml:23:5-25:41
+MERGED from [com.github.nisrulz:screenshott:2.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\screenshott-2.0.0.aar\b33bd76e22f3b1db1f09b29350ceacd4\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c7d60ea9213e704ed08d17c71dfa3271\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c7d60ea9213e704ed08d17c71dfa3271\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\71f1fde010bbc45e057cedb32ef9c235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\71f1fde010bbc45e057cedb32ef9c235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta5.aar\03691646813e04f580637b75684984ec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta5.aar\03691646813e04f580637b75684984ec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\5d5c261d4d7322669c2799d1b38fd8bd\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\5d5c261d4d7322669c2799d1b38fd8bd\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\41150454ed5637df438755b2d5ce0563\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\41150454ed5637df438755b2d5ce0563\AndroidManifest.xml:7:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8c6ef0a3ba33d5320b15c785d6bc772f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8c6ef0a3ba33d5320b15c785d6bc772f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\286ed9377b727cf0c2a2fe7bca28fbd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\286ed9377b727cf0c2a2fe7bca28fbd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\97e177f4588ed01f73df48959b8626fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\97e177f4588ed01f73df48959b8626fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f0a9b30219abf58b79c42141e8e352c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f0a9b30219abf58b79c42141e8e352c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f85e66246f24d3eab0a5fa7839ab9059\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f85e66246f24d3eab0a5fa7839ab9059\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1c2a2f6c74daedac8e7db4bd24124e0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1c2a2f6c74daedac8e7db4bd24124e0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\648b9bb58454885a323afb7bd0aa422e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\648b9bb58454885a323afb7bd0aa422e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\83111842c4b335fc6774f329114d5ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\83111842c4b335fc6774f329114d5ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e7fce8bf71f48632c1a485b9829c38cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e7fce8bf71f48632c1a485b9829c38cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\54c27e8db296cc8ea2bb428005a323ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\54c27e8db296cc8ea2bb428005a323ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d5cc7020072b8c8cf2e16a9aa6e148ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d5cc7020072b8c8cf2e16a9aa6e148ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4d818b3087224eed01a0e6124fb34404\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4d818b3087224eed01a0e6124fb34404\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0868078033d77890b6f61e37d903749c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0868078033d77890b6f61e37d903749c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e8f5aca5c7af3eba0b861cbd88958710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e8f5aca5c7af3eba0b861cbd88958710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c3d69578eaeb4a0c7cee5d254b6a611c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c3d69578eaeb4a0c7cee5d254b6a611c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\878c7031a6027386c5ec26ae0d9bd8e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\878c7031a6027386c5ec26ae0d9bd8e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7ca104b1010b00d30bbd759380efa343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7ca104b1010b00d30bbd759380efa343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b04f89e6795eec9d59db141d8a6a21d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b04f89e6795eec9d59db141d8a6a21d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a0269187b46bf30cf394311c35cf31b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a0269187b46bf30cf394311c35cf31b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1b676d729638714b4a5594e51c4e0763\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1b676d729638714b4a5594e51c4e0763\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3ed6eab1eab6a6d08013f48dbb4281b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3ed6eab1eab6a6d08013f48dbb4281b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5e952dcdedf266e85f7f49304394f2e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5e952dcdedf266e85f7f49304394f2e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\77e132733e43980df51489acf097aa81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\77e132733e43980df51489acf097aa81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b0e407ed1d009a8cd941098a57a1145a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b0e407ed1d009a8cd941098a57a1145a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b31274ac68f3eb65555efa35b634cb02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b31274ac68f3eb65555efa35b634cb02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bb57521e57c4c2343ec12b67ab4ac977\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bb57521e57c4c2343ec12b67ab4ac977\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e6b233594f8bf4765e0f9dde9c3903f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e6b233594f8bf4765e0f9dde9c3903f3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\843751011a7e3e4934f6dbd4dc0ece63\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\843751011a7e3e4934f6dbd4dc0ece63\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\fb4a16acb73d5af71a2a48835c9196b4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\fb4a16acb73d5af71a2a48835c9196b4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\0b038a061e5810f424b21c94a01a4a32\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\0b038a061e5810f424b21c94a01a4a32\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\24c6ba65f6136b4ccb2578f946e02457\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\24c6ba65f6136b4ccb2578f946e02457\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\a26e0b1f9aa25d9844bb81fe2e269496\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\a26e0b1f9aa25d9844bb81fe2e269496\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\d0b9289c59922f9c768dfcfb73b2d03d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\d0b9289c59922f9c768dfcfb73b2d03d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\04ee108afcc8ccc1c8993e65c81d4418\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\04ee108afcc8ccc1c8993e65c81d4418\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\9e0d8774e13ed1c97f16b09debee01a0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\9e0d8774e13ed1c97f16b09debee01a0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\3ac38df4e18e43a2e44a0ef534f77d73\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\3ac38df4e18e43a2e44a0ef534f77d73\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\7e388cbec875a6aaf7d7526fdaab332b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\7e388cbec875a6aaf7d7526fdaab332b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\de5e7135c01efb7acc57397899009909\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\de5e7135c01efb7acc57397899009909\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\904e1fc1a50ef8a96f0a26f86f5bfa76\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\904e1fc1a50ef8a96f0a26f86f5bfa76\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\06c4e1fbeeae876b41962a6887c3136f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\06c4e1fbeeae876b41962a6887c3136f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\037a7e44df5b29195fdd6f5f089da35d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\037a7e44df5b29195fdd6f5f089da35d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\05569adc98cffdd508b859d470ffbe0f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\05569adc98cffdd508b859d470ffbe0f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\55ba6127e7065f464c301632d61f46ac\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\55ba6127e7065f464c301632d61f46ac\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\72f1a18dfca352e46fd7bd351be53ead\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\72f1a18dfca352e46fd7bd351be53ead\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\f235ccf981c141d95361f19c167ec3b6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\f235ccf981c141d95361f19c167ec3b6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\d3c8659d4452f094b4bf8b07389f2c21\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\d3c8659d4452f094b4bf8b07389f2c21\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\c7363ed71011986ae70df9e93aa1b743\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\c7363ed71011986ae70df9e93aa1b743\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\9ca54af406c60dce642fde0bda1ffb34\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\9ca54af406c60dce642fde0bda1ffb34\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d0e2f9690de3c84be1d989a2dfd8cc53\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d0e2f9690de3c84be1d989a2dfd8cc53\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\85d4580ad77768f3209b6a8b4561a0e8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\85d4580ad77768f3209b6a8b4561a0e8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\ee797c51f5908285dc7bbc23c87f4ce9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\ee797c51f5908285dc7bbc23c87f4ce9\AndroidManifest.xml:4:5-43
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+		ADDED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+		INJECTED from D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\AndroidManifest.xml
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:28:9-31:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:31:13-72
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:29:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:32:9-36:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:35:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:36:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:33:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:37:9-41:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:40:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:41:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:38:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:42:9-45:73
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:43:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:46:9-50:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:49:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:50:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:47:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:51:9-54:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:54:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:52:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:55:9-59:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:58:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:59:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:57:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:56:13-57
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:60:9-64:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:63:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:62:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:64:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:61:13-86
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:65:9-77:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:67:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:66:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:69:13-76:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:70:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:73:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:73:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:75:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:75:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:79:9-83:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:81:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:82:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:83:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\AndroidManifest.xml:80:13-79
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\3150876fc38716f0977c3c6bab9666a0\AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\52565e5ec42295ffa9b7972af743b9cf\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\f4d8aa81b1a3ad91cc4af66d4e2917e9\AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\a348fcdcfc92ae630ef8956ec1fa5103\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\a348fcdcfc92ae630ef8956ec1fa5103\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\a348fcdcfc92ae630ef8956ec1fa5103\AndroidManifest.xml:29:13-82
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\8bfa8ba447b3adf478d7e1ac789f8524\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\f603a790e8a942f3530004606b4ffca0\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\c8567b9deb360288e239caff6bf507f0\AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:29:9-63
+permission#google.com.fabquiz.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:32:22-76
+uses-permission#google.com.fabquiz.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:google.com.fabquiz
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:42:27-58
+category#google.com.fabquiz
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e620827cd79a95ecc4eb49da305d03dd\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\be54897a2d5a59bc773dd289f8a4c5ce\AndroidManifest.xml:30:25-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\02c5857ca869f994c034befc86e40548\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\04b29426baf74b08b328e3b7144208c3\AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\87d1f64d937637a7c998a0f89e5ec999\AndroidManifest.xml:30:13-65
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\393d32f2d99a43fdf014999f8945a987\AndroidManifest.xml:24:13-83

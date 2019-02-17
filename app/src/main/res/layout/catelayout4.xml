@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/row_padding"
+    android:paddingLeft="3dp"
+
+    android:paddingTop="@dimen/row_padding"
+
+   >
+
+    <ImageView
+        android:id="@+id/cat_image"
+        android:layout_width="@dimen/thumbnail"
+        android:layout_height="@dimen/thumbnail"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:id="@+id/cat_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/cat_image"
+        android:fontFamily="sans-serif-medium"
+android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:textColor="@color/contact_name"
+
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/cat_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/cat_image"
+        android:fontFamily="sans-serif-medium"
+        android:layout_below="@id/cat_name"
+        android:paddingLeft="12dp"
+        android:paddingTop="6dp"
+        android:textColor="@color/contact_name"
+
+
+        android:textSize="14sp" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_below="@+id/cat_image"
+        android:layout_marginEnd="18dp"
+
+        android:layout_marginRight="18dp"
+        android:layout_toLeftOf="@+id/button"
+        android:layout_toStartOf="@+id/button"
+        android:background="@drawable/results"
+        android:text="ACCEPT"
+        android:textColor="@color/cardview_light_background" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/cat_image"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+
+        android:background="@drawable/results"
+        android:padding="2dp"
+        android:text="DECLINE"
+        android:textColor="@color/cardview_light_background" />
+
+</RelativeLayout>

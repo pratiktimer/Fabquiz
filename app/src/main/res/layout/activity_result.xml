@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010101"
+    >
+
+    <RelativeLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            app:srcCompat="@mipmap/home1"
+            tools:ignore="VectorDrawableCompat" />
+
+        <ImageView
+            android:id="@+id/profilepic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="95dp"
+            android:clickable="false"
+            app:srcCompat="@mipmap/thumbs1" />
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/profilepic"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:textAlignment="center"
+            android:textColor="@color/cardview_light_background"
+            android:fontFamily="@font/autour_one"
+
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@+id/textView8"
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="22sp"
+            android:fontFamily="@font/aldrich"
+            android:layout_alignParentLeft="true" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button6"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/autour_one"
+            android:text="See Your Answers"
+            android:textColor="@color/cardview_light_background"
+
+            android:textSize="20sp" />
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView1"
+            android:background="@drawable/button2"
+            android:padding="10dp"
+            android:text="New Match"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/cardview_light_background"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="54dp" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_alignStart="@+id/imageButton2"
+            android:layout_below="@+id/textView1"
+
+
+            android:background="@drawable/button2"
+            android:text="Rematch"
+            android:textColor="@color/cardview_light_background"
+            android:layout_alignLeft="@+id/imageButton2"
+            android:layout_marginLeft="54dp" />
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/textView9"
+            android:layout_marginTop="20dp"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-5932395848907967/8090622488">
+        </com.google.android.gms.ads.AdView>
+    </RelativeLayout>
+</ScrollView>

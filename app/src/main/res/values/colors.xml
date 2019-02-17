@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#070E42</color>
+    <color name="colorAccent">#000000</color>
+    <color name="bgrules">#010101</color>
+    <color name="p">#3F51B5</color>
+    <color name="q">#010101</color>
+    <color name="r">#FF4081</color>
+    <color name="background_color">#08998c</color>
+    <color name="black">#91c4a6</color>
+    <color name="white_greyish">#eeeeee</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+    <color name="blue">#6666e7</color>
+    <color name="colorBackground">#151B29</color>
+    <color name="colorYellow">#f4f5c8</color>
+    <color name="a">#211e1c</color>
+    <color name="b">#211e1c</color>
+    <color name="c">#211e1c</color>
+    <color name="seta">#000</color>
+    <color name="setb">#fff</color>
+    <color name="setc">#fff</color>
+    <color name="contact_name">#ffff</color>
+    <color name="contact_number">#ffffff</color>
+    <color name="yourColor">#fbf3f3</color>
+    <color name="accent">#46bdbf</color>
+    <color name="my_awesome_color">#ffffff</color>
+    <color name="lightwhite">#d3d3d3</color>
+    <color name="green_bright">#000000</color>
+    <color name="background">#000000</color>
+    <color name="textColorPrimary2">#442C2E</color>
+    <color name="appthemeprime">#CCFFC107</color>
+</resources>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#202021"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ToggleButton
+            android:id="@+id/toggleButton3"
+            android:layout_width="81dp"
+            android:layout_height="31dp"
+            android:layout_alignBaseline="@+id/textView4"
+            android:layout_alignBottom="@+id/textView4"
+            android:layout_alignLeft="@+id/toggleButton2"
+            android:layout_alignStart="@+id/toggleButton2"
+            android:background="#ffffff"
+            android:checked="true"
+            android:text="ToggleButton" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton2"
+            android:layout_width="81dp"
+            android:layout_height="31dp"
+            android:layout_alignTop="@+id/textView3"
+            android:layout_marginLeft="52dp"
+            android:layout_marginStart="52dp"
+            android:layout_toEndOf="@+id/textView3"
+            android:layout_toRightOf="@+id/textView3"
+            android:background="#ffffff"
+            android:checked="true"
+            android:text="ToggleButton"
+            android:textOn="ON" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="81dp"
+            android:layout_height="31dp"
+            android:layout_alignStart="@+id/textView3"
+            android:layout_below="@+id/textView3"
+            android:layout_marginTop="44dp"
+            android:text="Rules"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="18sp"
+            android:layout_alignLeft="@+id/textView3" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="120dp"
+            android:layout_height="43dp"
+            android:layout_below="@+id/Progressbar2"
+            android:layout_centerHorizontal="true"
+            android:text="Settings"
+            android:textAlignment="center"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:id="@+id/editprofielinear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView1"
+            android:layout_alignParentStart="true"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_alignParentLeft="true">
+
+            <ImageView
+                android:id="@+id/profilepic"
+                android:layout_width="0dp"
+                android:layout_height="95dp"
+                android:layout_alignStart="@+id/linearLayout2"
+                android:layout_below="@+id/textView1"
+                android:layout_weight="0.8"
+
+                android:padding="10dp"
+                android:src="@drawable/profilepic"
+                android:layout_alignLeft="@+id/linearLayout2" />
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1.2"
+                android:textSize="18sp"
+                android:textColor="@color/cardview_light_background" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="81dp"
+            android:layout_height="31dp"
+            android:layout_alignEnd="@+id/sign_out_button"
+            android:layout_below="@+id/editprofielinear"
+            android:layout_marginEnd="67dp"
+            android:layout_marginTop="50dp"
+            android:text="Sound"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="18sp"
+            android:layout_alignRight="@+id/sign_out_button"
+            android:layout_marginRight="67dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="81dp"
+            android:layout_height="31dp"
+            android:layout_alignStart="@+id/textView2"
+            android:layout_below="@+id/textView2"
+            android:layout_marginTop="44dp"
+            android:text="Music"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="18sp"
+            android:layout_alignLeft="@+id/textView2" />
+
+        <Button
+            android:id="@+id/sign_out_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@+id/textView4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="22dp"
+            android:background="@drawable/logout"
+            android:text="Log Out"
+            android:textColor="@color/cardview_light_background" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton1"
+            android:layout_width="81dp"
+            android:layout_height="31dp"
+
+            android:layout_alignLeft="@+id/toggleButton2"
+            android:layout_alignStart="@+id/toggleButton2"
+            android:layout_alignTop="@+id/textView2"
+            android:background="#ffffff"
+            android:checked="true"
+            android:text="ToggleButton" />
+
+        <fr.castorflex.android.smoothprogressbar.SmoothProgressBar xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/Progressbar2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:indeterminate="true"
+            app:spb_color="#ADD8E6"
+            app:spb_mirror_mode="false"
+            app:spb_progressiveStart_activated="true"
+            app:spb_progressiveStart_speed="1.5"
+            app:spb_progressiveStop_speed="3.4"
+            app:spb_reversed="false"
+            app:spb_sections_count="4"
+            app:spb_speed="2.0"
+            app:spb_stroke_separator_length="4dp"
+            app:spb_stroke_width="4dp" />
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Feb 17 15:24:56 IST 2019
+1.base=D\:\\study stuff\\play store\\cricketer\\Category\\Fabquiz\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\study stuff\\play store\\cricketer\\Category\\Fabquiz\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+1.path=crashlytics-build.properties

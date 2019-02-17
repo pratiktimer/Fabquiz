@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#211e1c"
+
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#211e1c"
+        >
+        <RelativeLayout
+            android:id="@+id/constraintLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/frameLayout"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="8dp"
+            android:background="#211e1c">
+
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="137dp"
+                android:layout_height="51dp"
+
+                android:layout_below="@+id/rel"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="52dp"
+                android:layout_weight="1"
+                android:background="@drawable/button3"
+                android:text="Finish"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="18sp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/rel" />
+
+            <ScrollView
+                android:id="@+id/rel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true">
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="bottom"
+                    android:padding="5dp"
+                    android:translationY="2dp"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    tools:ignore="MissingConstraints"
+                    tools:layout_editor_absoluteY="0dp">
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_below="@+id/tvQuestion"
+                        android:layout_weight="0.02"
+                        tools:ignore="ObsoleteLayoutParam">
+
+                        <Button
+                            android:id="@+id/radio0"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="4dp"
+                            android:layout_weight="0.3"
+                            android:background="@drawable/button3"
+                            android:fontFamily="@font/aldrich"
+                            android:paddingBottom="4dp"
+
+                            android:paddingLeft="4dp"
+                            android:paddingRight="4dp"
+                            android:paddingTop="4dp"
+                            android:text="Button"
+                            android:textAlignment="gravity"
+                            android:textColor="@color/cardview_light_background" />
+
+                        <Button
+                            android:id="@+id/radio1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="4dp"
+                            android:layout_weight="0.3"
+                            android:fontFamily="@font/aldrich"
+                            android:background="@drawable/button3"
+                            android:paddingBottom="4dp"
+                            android:paddingLeft="4dp"
+                            android:paddingRight="4dp"
+                            android:paddingTop="4dp"
+                            android:text="Button"
+                            android:textAlignment="gravity"
+                            android:textColor="@color/cardview_light_background" />
+
+                        <Button
+                            android:id="@+id/radio2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="4dp"
+                            android:layout_weight="0.3"
+                            android:fontFamily="@font/aldrich"
+                            android:background="@drawable/button3"
+                            android:paddingBottom="4dp"
+                            android:paddingLeft="4dp"
+                            android:paddingRight="4dp"
+                            android:paddingTop="4dp"
+                            android:text="Button"
+                            android:textAlignment="gravity"
+                            android:textColor="@color/cardview_light_background" />
+
+                        <Button
+                            android:id="@+id/radio3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="4dp"
+                            android:layout_weight="0.3"
+                            android:background="@drawable/button3"
+                            android:paddingBottom="4dp"
+                            android:paddingLeft="4dp"
+                            android:paddingRight="4dp"
+                            android:fontFamily="@font/aldrich"
+                            android:paddingTop="4dp"
+                            android:text="Button"
+                            android:textAlignment="gravity"
+                            android:textColor="@color/cardview_light_background" />
+
+                    </RadioGroup>
+
+                    <TextView
+                        android:id="@+id/tvQuestion"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+
+                        android:layout_alignLeft="@+id/radioGroup1"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignStart="@+id/radioGroup1"
+                        android:layout_marginTop="7dp"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="70dp"
+                        android:text="Questions"
+                        android:textAlignment="center"
+                        android:textColor="@color/cardview_light_background"
+                        android:textSize="18sp"
+                        android:textStyle="normal"
+                        android:fontFamily="@font/autour_one"
+                        android:translationY="8dp"
+                        tools:ignore="HardcodedText" />
+
+                </RelativeLayout>
+            </ScrollView>
+
+        </RelativeLayout>
+        <ImageView
+            android:id="@+id/live1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/live"
+            android:layout_below="@id/totalquestions"/>
+        <ImageView
+            android:id="@+id/live2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/live1"
+            android:src="@mipmap/live"
+            android:layout_below="@id/totalquestions"/>
+        <ImageView
+            android:id="@+id/live3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/live2"
+            android:src="@mipmap/live"
+            android:layout_below="@id/totalquestions"/>
+        <TextView
+            android:id="@+id/totalquestions"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/constraintLayout"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="17dp"
+            android:textColor="@color/cardview_light_background"
+            android:fontFamily="@font/autour_one"
+            android:textSize="24sp" />
+        <FrameLayout
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/frameLayout">
+
+            <ProgressBar
+                android:id="@+id/barTimer"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                android:layout_width="200dp"
+                android:layout_height="170dp"
+                ></ProgressBar>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center">
+
+                <TextView
+                    android:id="@+id/textTimer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="@font/autour_one"
+android:textStyle="bold"
+                    android:textColor="#FFFFFF"
+                    android:textSize="22sp" />
+                <ImageView
+                    android:id="@+id/pb"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/timer"/>
+            </RelativeLayout>
+
+        </FrameLayout>
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignBottom="@+id/frameLayout"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:background="@null"
+            android:visibility="invisible" />
+    </RelativeLayout>
+</ScrollView>

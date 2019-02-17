@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_centerInParent="true"
+    android:background="@mipmap/bg"
+    android:orientation="vertical"
+    android:padding="20dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="40dp">
+
+
+    <Button
+        android:id="@+id/invite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/challenge_friend"
+        android:layout_below="@+id/challenge_friend"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button"
+        android:drawableStart="@drawable/shareicon"
+        android:padding="10dp"
+        android:textColor="@color/cardview_light_background"
+        android:text="INVITE TO CONTACTS"
+        android:layout_alignLeft="@+id/challenge_friend"
+        android:drawableLeft="@drawable/shareicon" />
+
+    <Button
+        android:id="@+id/challenge_friend"
+        android:layout_width="match_parent"
+        android:textColor="@color/cardview_light_background"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/see_challenges"
+        android:layout_below="@+id/see_challenges"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button"
+        android:padding="3dp"
+        android:text="CHALLENGE FRIEND"
+        android:layout_alignLeft="@+id/see_challenges" />
+
+    <Button
+        android:id="@+id/see_challenges"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/results"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:textColor="@color/cardview_light_background"
+        android:layout_marginTop="37dp"
+        android:background="@drawable/button"
+        android:padding="3dp"
+        android:text="SEE CHALLENGES"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/results"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textColor="@color/cardview_light_background"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/button"
+        android:padding="3dp"
+        android:text="RESULTS" />
+
+
+    <!--<TextView-->
+        <!--android:id="@+id/textView11"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@+id/button"-->
+        <!--android:layout_toEndOf="@+id/play1"-->
+        <!--android:text="Settings"-->
+        <!--android:textColor="@color/cardview_light_background"-->
+        <!--android:textSize="18sp" />-->
+
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,278 @@
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:377
+-keep class android.arch.lifecycle.ProcessLifecycleOwnerInitializer { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:46
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:54
+-keep class android.support.v4.content.FileProvider { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:251
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:242
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:210
+-keep class com.firebase.ui.auth.KickoffActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:264
+-keep class com.firebase.ui.auth.data.client.AuthUiInitProvider { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:246
+-keep class com.firebase.ui.auth.ui.credentials.CredentialSaveActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:219
+-keep class com.firebase.ui.auth.ui.email.EmailActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:215
+-keep class com.firebase.ui.auth.ui.email.RecoverPasswordActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:233
+-keep class com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:238
+-keep class com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:229
+-keep class com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:224
+-keep class com.firebase.ui.auth.ui.phone.PhoneActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:371
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:350
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:298
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:289
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:367
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:308
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:322
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:303
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:318
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:270
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:328
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:342
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:281
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:361
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:180
+-keep class google.com.fabquiz.Internet.ConnectionReceiver { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:46
+-keep class google.com.fabquiz.Internet.TestApplication { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:128
+-keep class google.com.fabquiz.Login.Login { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:64
+-keep class google.com.fabquiz.MainActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:188
+-keep class google.com.fabquiz.Nougat.NetworkSchedulerService { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:108
+-keep class google.com.fabquiz.ScreenshotAnswer.CheckAnswer { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:158
+-keep class google.com.fabquiz.SplahScreen { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:169
+-keep class google.com.fabquiz.database.serv { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:89
+-keep class google.com.fabquiz.multiplayer { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:200
+-keep class google.com.fabquiz.multiplayers.FirebaseMessagingService { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:148
+-keep class google.com.fabquiz.multiplayers.GetMultiplayerResult { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:118
+-keep class google.com.fabquiz.multiplayers.multiplayers { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:138
+-keep class google.com.fabquiz.recyclerviewsearch.MainActivity { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:79
+-keep class online.Category.GetCategory { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:98
+-keep class online.Category.OnlineResult { <init>(); }
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:75
+-keep class online.Category.ScrollingActivity2 { <init>(); }
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_confirmation_code_layout.xml:92
+-keep class android.support.constraint.Barrier { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout-land\fui_auth_method_picker_layout.xml:2
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_welcome_back_password_prompt_layout.xml:9
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_phone_layout.xml:8
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_confirmation_code_layout.xml:9
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_auth_method_picker_layout.xml:2
+-keep class android.support.constraint.ConstraintLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\catelayout.xml:2
+-keep class android.support.design.card.MaterialCardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\design_bottom_navigation_item.xml:27
+-keep class android.support.design.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_contact.xml:9
+-keep class android.support.design.widget.AppBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\design_bottom_sheet_dialog.xml:26
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_contact.xml:2
+-keep class android.support.design.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea7a221289a060b4531497fd71715140\res\layout\design_layout_snackbar_include.xml:18
+-keep class android.support.design.widget.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_welcome_back_password_prompt_layout.xml:39
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_register_email_layout.xml:25
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_phone_layout.xml:27
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_forgot_password_layout.xml:25
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_check_email_layout.xml:25
+-keep class android.support.design.widget.TextInputEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_welcome_back_password_prompt_layout.xml:30
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_register_email_layout.xml:14
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_forgot_password_layout.xml:17
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_confirmation_code_layout.xml:31
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_check_email_layout.xml:14
+-keep class android.support.design.widget.TextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\multiplayer_result2.xml:88
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_check_answer.xml:29
+-keep class android.support.v4.view.ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\fragment_get__category.xml:20
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_listitem_multichoice.xml:17
+-keep class android.support.v7.widget.AppCompatCheckBox { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_listitem_singlechoice.xml:17
+-keep class android.support.v7.widget.AppCompatRadioButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\subjectslayout.xml:7
+-keep class android.support.v7.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_list_check.xml:39
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_list.xml:39
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\fragment_get__category.xml:29
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\frag_mult2.xml:9
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\content_main2.xml:12
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_see_challenges.xml:72
+-keep class android.support.v7.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_contact.xml:14
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17416b320c008baf0228bd1ab67f1261\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\customtabs-28.0.0.aar\3c96e1df577b250497cbac68c274fc7a\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_stub_actionbuttons.xml:5
+-keep class com.afollestad.materialdialogs.internal.MDButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_progress_indeterminate_horizontal.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_progress_indeterminate.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_progress.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_list_check.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_list.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_input_check.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_input.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_custom.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_basic_check.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\6800d8753df8308191c1b68031fd74f5\res\layout\md_dialog_basic.xml:1
+-keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_phone_layout.xml:12
+-keep class com.firebase.ui.auth.ui.phone.CountryListSpinner { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_confirmation_code_layout.xml:38
+-keep class com.firebase.ui.auth.ui.phone.SpacedEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_phone_layout.xml:18
+-keep class com.firebase.ui.auth.util.ui.BaselineTextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_provider_button_phone.xml:2
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_provider_button_email.xml:2
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_idp_button_twitter.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_idp_button_google.xml:1
+# Referenced at C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\deefea2202dd0b00fb33be3b4f6f0c92\res\layout\fui_idp_button_facebook.xml:1
+-keep class com.firebase.ui.auth.util.ui.SupportVectorDrawablesButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\multiplayer.xml:447
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_result.xml:97
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_check_answer.xml:11
+-keep class com.google.android.gms.ads.AdView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\home.xml:167
+-keep class com.google.android.gms.common.SignInButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_splash.xml:10
+# Referenced at D:\study stuff\play store\cricketer\Category\Fabquiz\app\src\main\res\layout\activity_settings.xml:146
+-keep class fr.castorflex.android.smoothprogressbar.SmoothProgressBar { <init>(android.content.Context, android.util.AttributeSet); }
+

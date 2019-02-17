@@ -1,0 +1,336 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="FirebaseLoginTheme" parent="FirebaseUI"
+        >
+
+
+        <item name="android:layout_gravity">center_horizontal|bottom</item>
+
+
+    </style>
+
+    <style name="FirebaseUI.Text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFD700</item>
+    </style>
+    <style name="FirebaseUI.CountrySpinner">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="FirebaseUI.EditText">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FirebaseUI.Text.HintText">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="FirebaseUI.TextInputEditText.PhoneField">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="colorControlActivated">#ffffff</item>
+        <item name="colorControlHighlight">@color/colorWhite</item>
+        <item name="android:textColorHint">@color/colorWhite</item>
+        <item name="android:layout_gravity">center_vertical|center_horizontal</item>
+        <item name="android:inputType">phone</item>
+
+    </style>
+    <style name="FirebaseUI.Button" >
+        <item name="android:background">@drawable/sign_up_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">center</item>
+        <item name="android:padding">5dp</item>
+
+        <item name="android:textColor">#FFD700</item>
+
+    </style>
+    <style name="FirebaseUI.TextView" >
+        <item name="android:background">#ff4081</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">center</item>
+
+    </style>
+
+    <style name="mystyle" parent="FirebaseLoginTheme">
+        <item name="colorPrimary">#FFD700</item>
+        <item name="colorPrimaryDark">#333643</item>
+        <item name="colorAccent">#CCFFC107</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="colorControlActivated">#CCFFC107</item>
+        <item name="android:textColorTertiary">#ffebee</item>
+        <item name="android:windowBackground">@drawable/bg_login</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColorHint">@android:color/white</item>
+    </style>
+    <style name="CustomDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@drawable/background_dialog</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FFD700</item>
+        <item name="colorPrimaryDark">#010101</item>
+        <item name="colorAccent">#CCFFC107</item>
+    </style>
+    <style name="YourAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/p</item>
+        <item name="colorPrimaryDark">@color/q</item>
+        <item name="colorAccent">@color/r</item>
+        <!-- you can customize your theme here. -->
+    </style>
+    <style name="YourAppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/a</item>
+        <item name="colorPrimaryDark">@color/b</item>
+        <item name="colorAccent">@color/c</item>
+        <!-- you can customize your theme here. -->
+    </style>
+    <style name="YourAppTheme3" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/bgrules</item>
+        <item name="colorPrimaryDark">@color/bgrules</item>
+        <item name="colorAccent">@color/bgrules</item>
+        <!-- you can customize your theme here. -->
+    </style>
+    <style name="Yourset" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/seta</item>
+        <item name="colorPrimaryDark">@color/setb</item>
+        <item name="colorAccent">@color/setc</item>
+        <!-- you can customize your theme here. -->
+    </style>
+    <style name="StandardSpinner" parent="@android:style/Widget.Spinner">
+        <item name="android:background">#FFF69D</item>
+    </style>
+    <style name="ToggleSwitchTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorAccent">@color/green_bright</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="colorPrimary">#FFD700</item>
+        <item name="colorPrimaryDark">#333643</item>
+        <item name="colorAccent">#CCFFC107</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="colorControlActivated">#CCFFC107</item>
+        <item name="android:textColorTertiary">#ffebee</item>
+        <item name="android:windowBackground">@color/b</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColorHint">@android:color/white</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="TextAppearance44">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:background">#8D6E63</item>
+    </style>
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">@color/my_awesome_color</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+
+
+        <!-- colorAccent is used as the default value for colorControlActivated,
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/accent</item>
+
+        <!-- You can also set colorControlNormal, colorControlActivated
+             colorControlHighlight, and colorSwitchThumbNormal. -->
+
+    </style>
+    <style name="AppFullScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <color name="AccentColor">#cc0000</color>
+    <color name="PopupColor">@color/AccentColor</color>
+    <color name="PopupTextColor">#ffffff</color>
+    <color name="ButtonTextColor">#ffffff</color>
+    <color name="BlurbColor">#a0a0a0</color>
+    <color name="SignOutButtonBackground">#e0e0e0</color>
+    <color name="SignOutButtonTextColor">#404040</color>
+    <dimen name="TitleSize">30sp</dimen>
+    <style name="GameScreen">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="LLScreen" parent="@style/GameScreen">
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">30dp</item>
+    </style>
+    <style name="GameplayScreen" parent="@style/LLScreen">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="InvPopup" parent="@style/LLScreen">
+        <item name="android:background">@color/PopupColor</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_gravity">top|right</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="GameTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+
+        <item name="android:textColor">@color/AccentColor</item>
+        <item name="android:textSize">@dimen/TitleSize</item>
+        <item name="android:layout_marginBottom">40dp</item>
+    </style>
+    <style name="Blurb">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/BlurbColor</item>
+    </style>
+    <style name="GameBlurb" parent="@style/Blurb">
+
+        <item name="android:layout_marginBottom">40dp</item>
+    </style>
+    <style name="SignInButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">40dp</item>
+    </style>
+    <style name="GameButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/AccentColor</item>
+        <item name="android:textColor">@color/ButtonTextColor</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+    </style>
+    <style name="MainScreenButton" parent="@style/GameButton">
+        <item name="android:layout_marginBottom">10dp</item>
+
+    </style>
+    <style name="MainScreenButtonBlurb" parent="@style/GameBlurb">
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+    <style name="InvPopupText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/PopupTextColor</item>
+        <item name="android:text">@string/inv_popup_text</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="InvPopupButton" parent="@style/GameButton">
+        <item name="android:background">@color/ButtonTextColor</item>
+        <item name="android:textColor">@color/AccentColor</item>
+    </style>
+
+    <style name="SignOutButton" parent="@style/GameButton">
+        <item name="android:background">@color/SignOutButtonBackground</item>
+        <item name="android:textColor">@color/SignOutButtonTextColor</item>
+    </style>
+
+    <style name="FigureView">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <style name="FigureLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ScoreToast">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <style name="ScoresBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#f0f0f0</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:padding">20dp</item>
+    </style>
+
+    <style name="ButtonsBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ScoreText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:gravity">left</item>
+    </style>
+
+    <style name="Instructions" parent="@style/Blurb">
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <style name="ScoreLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ScoreDisplay">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/AccentColor</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+    <style name="PlacementDisplay">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/BlurbColor</item>
+    </style>
+
+    <style name="SectionLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/AccentColor</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+    <style name="AppTheme2" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorPrimaryDark">@color/appthemeprime</item>
+        <item name="colorAccent">@color/textColorPrimary2</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="android:colorBackground">@color/colorPrimary</item>
+        <item name="colorControlActivated">#CCFFC107</item>
+        <item name="android:textColorTertiary">@android:color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,2460 @@
+{
+  "Category" : [ null, {
+    "category_name" : "English",
+    "categoryid" : "1",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Category%2F0.png?alt=media&token=7ca6502b-07af-4da7-9fbc-97a9014882fc",
+    "noofsub" : "0"
+  }, {
+    "category_name" : "Movies and Actors",
+    "categoryid" : "2",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Category%2Fbolly2.png?alt=media&token=cdfddf2c-9003-4345-b9a3-5b578dbcf257",
+    "noofsub" : "2"
+  }, {
+    "category_name" : "Computer Science",
+    "categoryid" : "3",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Category%2F2.png?alt=media&token=1a46cc25-73b6-4b06-8b42-c7d73dbcf0eb",
+    "noofsub" : "0"
+  }, {
+    "category_name" : "General Knowledge",
+    "categoryid" : "4",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Category%2F3.png?alt=media&token=4b5e8b2c-c629-473b-9c35-1a8e817be2dc",
+    "noofsub" : "0"
+  }, {
+    "category_name" : "Sports",
+    "categoryid" : "2",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Category%2Fsports.png?alt=media&token=8c27458f-6dc9-4a1b-8654-d5bb6312b960",
+    "noofsub" : "2"
+  } ],
+  "Questions" : {
+    "Bollywood" : [ null, {
+      "CorrectAnswer" : "No,It Was Captured During Their Marriage",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2F4c8d6b6b475391c2e3c96ba597419ceb.jpg?alt=media&token=8e1438d9-c69a-4139-99c8-a2bad1cb4e94",
+      "OptA" : "Yes,It's From An Advertisement",
+      "OptB" : "No,It Was Captured During Their Marriage",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "Is The Image From An Advertisement?"
+    }, {
+      "CorrectAnswer" : "No,It's From An Advertisement",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2F441108f6d5e319e5a4a6ed877f99c1ac.jpg?alt=media&token=78532e69-148a-425c-a8d0-1d3d6901530f",
+      "OptA" : "Yes,It's From An Advertisement",
+      "OptB" : "No,It's From An Advertisement",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "Was The Image Captured During Marriage?"
+    }, {
+      "CorrectAnswer" : "Aamir Khan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Faamir.jpg?alt=media&token=89b8ffbe-59e2-40f3-8ca7-9f95c9e7fd12",
+      "OptA" : "Salman Khan",
+      "OptB" : "Aamir Khan",
+      "OptC" : "Saif Ali Khan",
+      "OptD" : "Sharukh Khan",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Agneepath",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fagneepath.jpg?alt=media&token=ced7deba-63b4-4c06-a568-fe79711cff98",
+      "OptA" : "Agneepath",
+      "OptB" : "Kaabil",
+      "OptC" : "Bang Bang",
+      "OptD" : "Kaho Na Pyaar Hai",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Aishwarya Rai",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Faish.jpg?alt=media&token=99ee291f-e15a-43dc-8aa9-034947807e1e",
+      "OptA" : "Amrita Rao",
+      "OptB" : "Aishwarya Rai",
+      "OptC" : "Aditi Rao Hydari",
+      "OptD" : "Anushka Shetty",
+      "Question" : "Identify The Famous Actress From The Picture?"
+    }, {
+      "CorrectAnswer" : "Two States",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Falia.jpg?alt=media&token=f6e1b5b0-9747-4e80-8409-9e9785692416",
+      "OptA" : "Student Of The Year",
+      "OptB" : "Udtaa Punjaab",
+      "OptC" : "Highway",
+      "OptD" : "Two States",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Anushka Sharma",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fanushka%20sharma.jpg?alt=media&token=0b07d66d-5252-484d-95af-b1eeefbe9d32",
+      "OptA" : "Amrita Rao",
+      "OptB" : "Anushka Sharma",
+      "OptC" : "Aditi Rao Hydari",
+      "OptD" : "Anushka Shetty",
+      "Question" : "Identify The Famous Actress From The Picture?"
+    }, {
+      "CorrectAnswer" : "Anushka Shetty",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fanushka%20shetty.jpg?alt=media&token=d42eb468-f67a-490e-9dbb-f8089bd92977",
+      "OptA" : "Anushka Shetty",
+      "OptB" : "Aditi Rao Hydari",
+      "OptC" : "Amrita Rao",
+      "OptD" : "Anushka Sharma",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Arjun Rampal",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Farjun%20rampal.jpg?alt=media&token=2e648927-f333-4c8e-9096-44cee5b018ef",
+      "OptA" : "Arjun Kapoor",
+      "OptB" : "Arjun Rampal",
+      "OptC" : "Hrithik Roshan",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : " Identify The Actor Name : "
+    }, {
+      "CorrectAnswer" : "Arjun Kapoor",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Farjun.jpg?alt=media&token=6ca3c0f9-c776-4ddf-889e-a0b3e040405a",
+      "OptA" : "Arjun Kapoor",
+      "OptB" : "Arjun Rampal",
+      "OptC" : "Hrithik Roshan",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : " Identify The Actor Name : "
+    }, {
+      "CorrectAnswer" : "Ayushmann Khurrana",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fayyushman.jpg?alt=media&token=63078fd4-6c93-4029-bc4f-ab7a47dabade",
+      "OptA" : "Arjun Kapoor",
+      "OptB" : "Arjun Rampal",
+      "OptC" : "Ayushmann Khurrana",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : " Identify The Actor Name : "
+    }, {
+      "CorrectAnswer" : "Baaghi",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fbaaghi.jpg?alt=media&token=387a3a0b-417c-4c40-8282-e9310fab05de",
+      "OptA" : "Heropanti",
+      "OptB" : "Baaghi",
+      "OptC" : "Baaghi 2",
+      "OptD" : "Munna Michael",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Baahubali 2: The Conclusion",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fbaahubali.jpg?alt=media&token=04e1c5b3-d4e5-4cd2-8f17-01674992bbca",
+      "OptA" : "Baahubali: The Beginning",
+      "OptB" : "Baahubali 2: The Conclusion",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Bajirao Mastani",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fbaajirao.jpg?alt=media&token=e609980f-0c2b-4b65-9c7a-d96aac7747f1",
+      "OptA" : "Goliyon Ki Rasleela Ram-Leela",
+      "OptB" : "Padmaavat",
+      "OptC" : "Bajirao Mastani",
+      "OptD" : "",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Badrinath Ki Dulhania",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fbadrikidulhania.jpg?alt=media&token=be64c930-51b3-44c4-a4ec-4a461d5de255",
+      "OptA" : "Humpty Sharma Ki Dulhania",
+      "OptB" : "Badrinath Ki Dulhania",
+      "OptC" : "Student of The Year",
+      "OptD" : "",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Deepika Padukone",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fdeepika.jpg?alt=media&token=8fae4fd6-fe72-4324-aa68-b46bdc57b24b",
+      "OptA" : "Disha Patani",
+      "OptB" : "Sonam Kapoor",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Anushka Sharma",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Loafer(Telugu)",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fdisha.jpg?alt=media&token=02a6742d-f698-475b-bee9-97a8e9a60b3c",
+      "OptA" : "Loafer(Telugu)",
+      "OptB" : "M.S. Dhoni: The Untold Story",
+      "OptC" : "Kung Fu Yoga",
+      "OptD" : "Baaghi 2",
+      "Question" : "Name Of THe First Movie?"
+    }, {
+      "CorrectAnswer" : "Disha Patani",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fdisha3.jpg?alt=media&token=825bc088-8397-4040-bc26-c23e6fd4b29b",
+      "OptA" : "Disha Patani",
+      "OptB" : "Sonam Kapoor",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Anushka Sharma",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Golmaal Again",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fgolmaal.jpg?alt=media&token=32ee3a68-76ab-4cd4-a823-40d066f14d5f",
+      "OptA" : "Golmaal 3",
+      "OptB" : "Golmaal: Fun Unlimited",
+      "OptC" : "Golmaal Returns",
+      "OptD" : "Golmaal Again",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Hrithik Roshan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fhrithik2.jpg?alt=media&token=e2155be4-f537-4e24-b117-941b54867999",
+      "OptA" : "Arjun Kapoor",
+      "OptB" : "Arjun Rampal",
+      "OptC" : "Hrithik Roshan",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : " Identify The Actor Name : "
+    }, {
+      "CorrectAnswer" : "Ileana D'çruz",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fileana.jpg?alt=media&token=de75d628-d633-48df-852d-31084d513b2e",
+      "OptA" : "Disha Patani",
+      "OptB" : "Sonam Kapoor",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Ileana D'çruz",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Imran Khan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fimraan.jpg?alt=media&token=7b8d64a7-25f5-41e9-950a-bb482b47913b",
+      "OptA" : "Imran Khan",
+      "OptB" : "Ranbir Kapoor",
+      "OptC" : "Hrithik Roshan",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : " Identify The Actor Name : "
+    }, {
+      "CorrectAnswer" : "Jacqueline Fernandez",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fjacqline.jpg?alt=media&token=007d499c-e5bb-4999-a409-5c8dfea4c630",
+      "OptA" : "Jacqueline Fernandez",
+      "OptB" : "Sonam Kapoor",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Ileana D'çruz",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "John Abraham",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fjohn%20abraham.jpg?alt=media&token=f8bd02af-32b8-4d05-9c67-78c14ab0a3bd",
+      "OptA" : "Imran Khan",
+      "OptB" : "Ranbir Kapoor",
+      "OptC" : "Hrithik Roshan",
+      "OptD" : "John Abraham",
+      "Question" : " Identify The Actor Name : "
+    }, {
+      "CorrectAnswer" : "Kajal Aggarwal",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fkajal.jpg?alt=media&token=31e81dc2-ca78-492f-af0b-994691312bbd",
+      "OptA" : "Jacqueline Fernandez",
+      "OptB" : "Kajal Aggarwal",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Ileana D'çruz",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Kareena Kapoor",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fkareena%20kapoor.jpg?alt=media&token=ebdb3521-cc57-4e86-b393-890419bcf4e2",
+      "OptA" : "Kareena Kapoor",
+      "OptB" : "Kajal Aggarwal",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Ileana D'çruz",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Katrina Kaif",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fkatrina.jpg?alt=media&token=d12c2887-889f-4f72-ae17-12f8b36cd775",
+      "OptA" : "Kareena Kapoor",
+      "OptB" : "Kajal Aggarwal",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Katrina Kaif",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Kriti Sanon",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fkriti.jpg?alt=media&token=4af643b6-c69b-44e1-ae1b-faa74f554e4a",
+      "OptA" : "Disha Patani",
+      "OptB" : "Kajal Aggarwal",
+      "OptC" : "Kriti Sanon",
+      "OptD" : "Katrina Kaif",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Nidhhi Aggarwal",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fniddhi.jpg?alt=media&token=64441481-92c7-44b9-b323-bf3d8385885d",
+      "OptA" : "Jacqueline Fernandez",
+      "OptB" : "Kajal Aggarwal",
+      "OptC" : "Nidhhi Aggarwal",
+      "OptD" : "Ileana D'çruz",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Sultan Alauddin Khilji",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fpadmaavat.jpg?alt=media&token=f36ed203-3a3b-4f50-b2e3-a56504158c73",
+      "OptA" : "Ram",
+      "OptB" : "Bikram",
+      "OptC" : "Peshwa Bajirao",
+      "OptD" : "Sultan Alauddin Khilji",
+      "Question" : "For Which Character He Had That Look?"
+    }, {
+      "CorrectAnswer" : "Padmaavat",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fpadmaavat2.jpg?alt=media&token=243af12f-affa-4427-ae65-6066ef805382",
+      "OptA" : "Ramleela",
+      "OptB" : "Baajirao Mastaani",
+      "OptC" : "Padmaavat",
+      "OptD" : "",
+      "Question" : "For Which Character She Had That Look?"
+    }, {
+      "CorrectAnswer" : "Ramleela",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Framleela.jpg?alt=media&token=34fe1060-29ac-4f8d-bb1b-a77deb50fee3",
+      "OptA" : "Ramleela",
+      "OptB" : "Baajirao Mastaani",
+      "OptC" : "Padmaavat",
+      "OptD" : "",
+      "Question" : "For Which Character She Had That Look?"
+    }, {
+      "CorrectAnswer" : "Ranveer Singh",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Franveer.jpg?alt=media&token=815021ed-9347-4cc5-b6db-502f3bc2b97c",
+      "OptA" : "Ranveer Singh",
+      "OptB" : "Ranbir Kapoor",
+      "OptC" : "Arjun Kapoor",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : "Name Of The Actor?"
+    }, {
+      "CorrectAnswer" : "Priyanka Chopra",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fpriyanka.jpg?alt=media&token=acd4101c-e4ff-4dc3-9a6f-8f08ef0bc42a",
+      "OptA" : "Parineeti Chopra",
+      "OptB" : "Priyanka Chopra",
+      "OptC" : "Nidhhi Aggarwal",
+      "OptD" : "Ileana D'çruz",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Ranbir Kapoor",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Franbir.jpg?alt=media&token=54d80ebc-96c2-45af-b028-72ef8a61dea6",
+      "OptA" : "Ranveer Singh",
+      "OptB" : "Ranbir Kapoor",
+      "OptC" : "Arjun Kapoor",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : "Name Of The Actor?"
+    }, {
+      "CorrectAnswer" : "Salman Khan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fsalmaan.jpg?alt=media&token=3b7354f7-8eef-4813-836a-80e248f814a2",
+      "OptA" : "Salman Khan",
+      "OptB" : "Aamir Khan",
+      "OptC" : "Saif Ali Khan",
+      "OptD" : "Sharukh Khan",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Sharukh Khan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fshaarukh.jpg?alt=media&token=879b5841-e315-4477-9d38-8d3afa36798c",
+      "OptA" : "Salman Khan",
+      "OptB" : "Aamir Khan",
+      "OptC" : "Saif Ali Khan",
+      "OptD" : "Sharukh Khan",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Shahid Kapoor",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fshahid.jpg?alt=media&token=a98aa394-1ae4-4d7e-bb5d-a3a701c02aff",
+      "OptA" : "Ranveer Singh",
+      "OptB" : "Ranbir Kapoor",
+      "OptC" : "Shahid Kapoor",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : "Name Of The Actor?"
+    }, {
+      "CorrectAnswer" : "Shradha Kapoor",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fshraddha2.jpg?alt=media&token=2cc4b9a1-1b80-4d01-9f7e-457aef596567",
+      "OptA" : "Kareena Kapoor",
+      "OptB" : "Shradha Kapoor",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Kaneeka Kapoor",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Siddharth Malhotra",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fsiddharth.jpg?alt=media&token=73b0b725-b4d5-48ce-9a99-58cf999db356",
+      "OptA" : "Varun Dhawan",
+      "OptB" : "Ranbir Kapoor",
+      "OptC" : "Siddharth Malhotra",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : "Name Of The Actor?"
+    }, {
+      "CorrectAnswer" : "Sonakshi Sinha",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fsonakshi.jpg?alt=media&token=09e8aece-de15-4678-b7fe-eeeccc6d6836",
+      "OptA" : "Sonakshi Sinha",
+      "OptB" : "Shradha Kapoor",
+      "OptC" : "Deepika Padukone",
+      "OptD" : "Kaneeka Kapoor",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Sonam Kapoor",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fsonam%20kapoor2.jpg?alt=media&token=1208fb9e-1320-4148-b717-1b3d8a1379a8",
+      "OptA" : "Sonakshi Sinha",
+      "OptB" : "Shradha Kapoor",
+      "OptC" : "Sonam Kapoor",
+      "OptD" : "Kaneeka Kapoor",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Sooraj Pancholi",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fsooraj.jpg?alt=media&token=190e1dcc-ff1f-4657-b158-4383315d193a",
+      "OptA" : "Sooraj Pancholi",
+      "OptB" : "Ranbir Kapoor",
+      "OptC" : "Sooraj Pancholi",
+      "OptD" : "Aditya Roy Kapoor",
+      "Question" : "Name Of The Actor?"
+    }, {
+      "CorrectAnswer" : "Student of The Year",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fsoty.jpg?alt=media&token=4c5be120-30de-4b3e-85aa-c6674909eb87",
+      "OptA" : "Humpty Sharma Ki Dulhania",
+      "OptB" : "Badrinath Ki Dulhania",
+      "OptC" : "Student of The Year",
+      "OptD" : "",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Sushant Singh Rajput",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fsushant.jpg?alt=media&token=bccd1552-b856-4c97-a153-0d8626e21a79",
+      "OptA" : "Sooraj Pancholi",
+      "OptB" : "Ranbir Kapoor",
+      "OptC" : "Sooraj Pancholi",
+      "OptD" : "Sushant Singh Rajput",
+      "Question" : "Name Of The Actor?"
+    }, {
+      "CorrectAnswer" : "Taapsee Pannu",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Ftaapsee.jpg?alt=media&token=f6534b88-5ca4-4bc8-977a-868c997098c0",
+      "OptA" : "Taapsee Pannu",
+      "OptB" : "Vaani Kapoor",
+      "OptC" : "Urvashi Rautela",
+      "OptD" : "Kaneeka Kapoor",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Jai Hemant Shroff",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Ftiger.jpg?alt=media&token=ce268c34-9046-4517-bb8a-da963199ad17",
+      "OptA" : "Jai Hemant Shroff",
+      "OptB" : "Jackie Shroff",
+      "OptC" : "Sooraj Pancholi",
+      "OptD" : "Sushant Singh Rajput",
+      "Question" : "Name Of The Actor?"
+    }, {
+      "CorrectAnswer" : "Urvashi Rautela",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Furvashi.jpg?alt=media&token=5ca2255a-28c2-4725-b922-d5ddf40f3323",
+      "OptA" : "Urvashi Rautela",
+      "OptB" : "Vaani Kapoor",
+      "OptC" : "Urvashi Rautela",
+      "OptD" : "Kaneeka Kapoor",
+      "Question" : "Name Of The Actress?"
+    }, {
+      "CorrectAnswer" : "Varun Dhawan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fvarun.jpg?alt=media&token=dace8e9c-89fc-4587-8356-efb9ef334877",
+      "OptA" : "Jai Hemant Shroff",
+      "OptB" : "Jackie Shroff",
+      "OptC" : "Sooraj Pancholi",
+      "OptD" : "Varun Dhawan",
+      "Question" : "Name Of The Actor?"
+    }, {
+      "CorrectAnswer" : "Yeh Jawaani Hai Deewani",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fyjhd.jpg?alt=media&token=c1664dbe-904e-4c23-af05-449db888819b",
+      "OptA" : "Yeh Jawaani Hai Deewani",
+      "OptB" : "Tamaasha",
+      "OptC" : "Bachna Ae Haseeno",
+      "OptD" : "",
+      "Question" : "Guess The Movie Name From The Picture?"
+    }, {
+      "CorrectAnswer" : "Wake Up Sid",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Bollywood%2Fwakeup.jpg?alt=media&token=481f43bd-cb6c-41f9-a526-04acb9f0aa86",
+      "OptA" : "Yeh Jawaani Hai Deewani",
+      "OptB" : "Tamaasha",
+      "OptC" : "Bachna Ae Haseeno",
+      "OptD" : "Wake Up Sid",
+      "Question" : "Guess The Movie Name From The Picture?"
+    } ],
+    "Computer Science" : [ null, {
+      "CorrectAnswer" : "all of the mentioned",
+      "IsImageQuestion" : "false",
+      "OptA" : "collection of programs that manages hardware resources",
+      "OptB" : "system service provider to the application programs",
+      "OptC" : "link to interface the hardware and application programs",
+      "OptD" : "all of the mentioned",
+      "Question" : "  What is operating system? "
+    }, {
+      "CorrectAnswer" : "system calls",
+      "IsImageQuestion" : "false",
+      "OptA" : "system calls",
+      "OptB" : "API",
+      "OptC" : "library",
+      "OptD" : " assembly instructions",
+      "Question" : "  To access the services of operating system, the interface is provided by the "
+    }, {
+      "CorrectAnswer" : "kernel is made of various modules which can not be loaded in running operating system",
+      "IsImageQuestion" : "false",
+      "OptA" : "kernel is the program that constitutes the central core of the operating system",
+      "OptB" : "kernel is the first part of operating system to load into memory during booting",
+      "OptC" : "kernel is made of various modules which can not be loaded in running operating system",
+      "OptD" : "kernel remains in the memory during the entire computer session",
+      "Question" : "  Which one of the following is not true regarding operating system? "
+    }, {
+      "CorrectAnswer" : "all of the mentioned",
+      "IsImageQuestion" : "false",
+      "OptA" : "power failure",
+      "OptB" : "lack of paper in printer",
+      "OptC" : "connection failure in the network",
+      "OptD" : "all of the mentioned",
+      "Question" : "  Which one of the following error will be handle by the operating system? "
+    }, {
+      "CorrectAnswer" : "both (a) and (b)",
+      "IsImageQuestion" : "false",
+      "OptA" : "time division multiplexing",
+      "OptB" : "space division multiplexing",
+      "OptC" : "both (a) and (b)",
+      "OptD" : "none of the mentioned",
+      "Question" : "  By operating system, the resource management can be done via"
+    }, {
+      "CorrectAnswer" : "log file",
+      "IsImageQuestion" : "false",
+      "OptA" : "log file",
+      "OptB" : "another running process",
+      "OptC" : "new file",
+      "OptD" : "none of the mentioned",
+      "Question" : "  If a process fails, most operating system write the error information to a"
+    }, {
+      "CorrectAnswer" : "DTrace",
+      "IsImageQuestion" : "false",
+      "OptA" : "DTrace",
+      "OptB" : "DLocate",
+      "OptC" : "DMap",
+      "OptD" : "DAdd",
+      "Question" : "  Which facility dynamically adds probes to a running system, both in user processes and in the kernel?"
+    }, {
+      "CorrectAnswer" : "Palm OS",
+      "IsImageQuestion" : "false",
+      "OptA" : "VxWorks",
+      "OptB" : "Windows CE",
+      "OptC" : "RTLinux",
+      "OptD" : "Palm OS",
+      "Question" : "  Which one of the following is not a real time operating system?"
+    }, {
+      "CorrectAnswer" : "hybrid kernel",
+      "IsImageQuestion" : "false",
+      "OptA" : "monolithic kernel",
+      "OptB" : "hybrid kernel",
+      "OptC" : "microkernel",
+      "OptD" : "monolithic kernel with modules",
+      "Question" : " The OS X has?"
+    }, {
+      "CorrectAnswer" : "both a and b",
+      "IsImageQuestion" : "false",
+      "OptA" : "parallel systems",
+      "OptB" : "tightly coupled system",
+      "OptC" : "loosely coupled system",
+      "OptD" : "both a and b",
+      "Question" : " Multi processor system that computer system have are also called"
+    }, {
+      "CorrectAnswer" : "all of the mentioned",
+      "IsImageQuestion" : "false",
+      "OptA" : "physical address and logical address",
+      "OptB" : "port address",
+      "OptC" : "specific address",
+      "OptD" : "all of the mentioned",
+      "Question" : "  Which address is used in an internet employing the TCP/IP protocols?"
+    }, {
+      "CorrectAnswer" : "physical layer",
+      "IsImageQuestion" : "false",
+      "OptA" : "network layer",
+      "OptB" : "physical layer",
+      "OptC" : "data link layer",
+      "OptD" : "transport layer",
+      "Question" : " Transmission data rate is decided by"
+    }, {
+      "CorrectAnswer" : "port address",
+      "IsImageQuestion" : "false",
+      "OptA" : "physical address",
+      "OptB" : "logical address",
+      "OptC" : "port address",
+      "OptD" : "specific address",
+      "Question" : " Which address identifies a process on a host?"
+    }, {
+      "CorrectAnswer" : "distributed system",
+      "IsImageQuestion" : "false",
+      "OptA" : "computer network",
+      "OptB" : "distributed system",
+      "OptC" : "both (a) a nd (b)",
+      "OptD" : "none of the mentioned",
+      "Question" : " When collection of various computers seems a single coherent system to its client, then it is called"
+    }, {
+      "CorrectAnswer" : "a process in one device is able to exchange information with a process in another device",
+      "IsImageQuestion" : "false",
+      "OptA" : "a process in one device is able to exchange information with a process in another device",
+      "OptB" : "a process is running on both devices",
+      "OptC" : "PIDs of the processes running of different devices are same",
+      "OptD" : "none of the mentioned",
+      "Question" : " Two devices are in network if "
+    }, {
+      "CorrectAnswer" : "overlay network",
+      "IsImageQuestion" : "false",
+      "OptA" : "prior network",
+      "OptB" : "chief network",
+      "OptC" : "prime network",
+      "OptD" : "overlay network",
+      "Question" : " Which one of the following computer network is built on the top of another network?"
+    }, {
+      "CorrectAnswer" : "all of the mentioned",
+      "IsImageQuestion" : "false",
+      "OptA" : "the computer that originates the data",
+      "OptB" : "the computer that routes the data",
+      "OptC" : "the computer that terminates the data",
+      "OptD" : "all of the mentioned",
+      "Question" : " In computer network nodes are"
+    }, {
+      "CorrectAnswer" : "broadcast network",
+      "IsImageQuestion" : "false",
+      "OptA" : "unicast network",
+      "OptB" : "multicast network",
+      "OptC" : "broadcast network",
+      "OptD" : "none of the mentioned",
+      "Question" : " Communication channel is shared by all the machines on the network in"
+    }, {
+      "CorrectAnswer" : "personal area network",
+      "IsImageQuestion" : "false",
+      "OptA" : "personal area network",
+      "OptB" : "local area network",
+      "OptC" : "virtual private network",
+      "OptD" : "none of the mentioned",
+      "Question" : " Bluetooth is an example of"
+    }, {
+      "CorrectAnswer" : "router",
+      "IsImageQuestion" : "false",
+      "OptA" : "bridge",
+      "OptB" : "firewall",
+      "OptC" : "router",
+      "OptD" : "all of the mentioned",
+      "Question" : "  A _____ is a device that forwards packets between networks by processing the routing information included in the packet."
+    }, {
+      "CorrectAnswer" : "Making a Machine intelligent",
+      "IsImageQuestion" : "false",
+      "OptA" : "Putting your intelligence into Computer",
+      "OptB" : "Programming with your own intelligence",
+      "OptC" : "Making a Machine intelligent",
+      "OptD" : "Putting more memory into Computer",
+      "Question" : "  What is Artificial intelligence?"
+    }, {
+      "CorrectAnswer" : "All of the above",
+      "IsImageQuestion" : "false",
+      "OptA" : "Planning and Scheduling",
+      "OptB" : "Game Playing",
+      "OptC" : "Robotics",
+      "OptD" : "All of the above",
+      "Question" : "  Artificial Intelligence has its expansion in the following application."
+    }, {
+      "CorrectAnswer" : "artificial intelligence",
+      "IsImageQuestion" : "false",
+      "OptA" : "machine intelligence",
+      "OptB" : "human intelligence",
+      "OptC" : "artificial intelligence",
+      "OptD" : "virtual intelligence",
+      "Question" : "  The characteristics of the computer system capable of thinking, reasoning and learning is known is"
+    }, {
+      "CorrectAnswer" : "IPL",
+      "IsImageQuestion" : "false",
+      "OptA" : "BASIC",
+      "OptB" : "FORTRAN",
+      "OptC" : "IPL",
+      "OptD" : "LISP",
+      "Question" : " The first AI programming language was called:"
+    }, {
+      "CorrectAnswer" : "Heuristic",
+      "IsImageQuestion" : "false",
+      "OptA" : "Heuristic",
+      "OptB" : "Critical",
+      "OptC" : "Value based",
+      "OptD" : "Analytical",
+      "Question" : " What is the term used for describing the judgmental or commonsense part of problem solving?"
+    }, {
+      "CorrectAnswer" : "hierarchical planning",
+      "IsImageQuestion" : "false",
+      "OptA" : "hierarchical planning",
+      "OptB" : "non-hierarchical planning",
+      "OptC" : "project planning",
+      "OptD" : "All of the above",
+      "Question" : " Which kind of planning consists of successive representations of different levels of a plan?"
+    }, {
+      "CorrectAnswer" : "Alain Colmerauer",
+      "IsImageQuestion" : "false",
+      "OptA" : "Alain Colmerauer",
+      "OptB" : "Nicklaus Wirth",
+      "OptC" : "Seymour Papert",
+      "OptD" : "John McCarthy",
+      "Question" : " PROLOG is an AI programming language which solves problems with a form of symbolic logic known as predicate calculus. It was developed in 1972 at the University of Marseilles by a team of specialists. Can you name the person who headed this team?"
+    }, {
+      "CorrectAnswer" : "pattern matching",
+      "IsImageQuestion" : "false",
+      "OptA" : "heuristic processing",
+      "OptB" : "cognitive science",
+      "OptC" : "relative symbolism",
+      "OptD" : "pattern matching",
+      "Question" : " An AI technique that allows computers to understand associations and relationships between objects and events is called:"
+    }, {
+      "CorrectAnswer" : "cognitive science",
+      "IsImageQuestion" : "false",
+      "OptA" : "history",
+      "OptB" : "cognitive science",
+      "OptC" : "psychology",
+      "OptD" : "sociology",
+      "Question" : " The field that investigates the mechanics of human intelligence is:"
+    }, {
+      "CorrectAnswer" : "The Turing Test",
+      "IsImageQuestion" : "false",
+      "OptA" : "The Turing Test",
+      "OptB" : "LISP",
+      "OptC" : "The Logic Theorist",
+      "OptD" : "Cybernetics",
+      "Question" : " What was originally called the \"imitation game\" by its creator?"
+    }, {
+      "CorrectAnswer" : "Define the circumstances of the problem",
+      "IsImageQuestion" : "false",
+      "OptA" : "Check the computer CMOS",
+      "OptB" : "Define the circumstances of the problem",
+      "OptC" : "Call the vendor",
+      "OptD" : "Define what applications are being used",
+      "Question" : " Which of the following would be a logical first step in troubleshooting a PC??"
+    }, {
+      "CorrectAnswer" : "Check its connections to the computer and power source",
+      "IsImageQuestion" : "false",
+      "OptA" : "Check its connections to the computer and power source",
+      "OptB" : "Use a meter to check the CRT and internal circuitry for continuity",
+      "OptC" : "Power down the monitor, then turn it on again to see if that corrects the problem",
+      "OptD" : "Power down the computer, then turn it on again to see if that corrects the problem",
+      "Question" : " Which would you do first when troubleshooting a faulty monitor?"
+    }, {
+      "CorrectAnswer" : "crashed hard drive",
+      "IsImageQuestion" : "false",
+      "OptA" : "defective RAM (bank zero)",
+      "OptB" : "defective microprocessor",
+      "OptC" : "crashed hard drive",
+      "OptD" : "loose video card",
+      "Question" : " You have a PC with no video* Which of the following is LEAST likely to be causing the problem?"
+    }, {
+      "CorrectAnswer" : "The colored line in the cable goes to pin #1",
+      "IsImageQuestion" : "false",
+      "OptA" : "The red line in the cable goes to the highest pin number",
+      "OptB" : "The colored line in the cable goes to pin #1",
+      "OptC" : "It does not matter",
+      "OptD" : "The blue or red line in the cable goes away from the power connector",
+      "Question" : " When connecting a ribbon cable to a connector, how do you know which direction to plug it in?"
+    }, {
+      "CorrectAnswer" : "check the AC outlet",
+      "IsImageQuestion" : "false",
+      "OptA" : "Test the power supply",
+      "OptB" : "replace the CMOS battery",
+      "OptC" : "check the AC outlet",
+      "OptD" : "reseat the hard drive controller cable",
+      "Question" : " What is the first step in diagnosing a completely dead computer at the client site that was working the day before."
+    }, {
+      "CorrectAnswer" : "Format",
+      "IsImageQuestion" : "false",
+      "OptA" : "Format",
+      "OptB" : "Fdisk",
+      "OptC" : "Partition",
+      "OptD" : "Add the OS",
+      "Question" : "You see the message \"invalid media device\" after installing a new hard drive. What do you do next?"
+    }, {
+      "CorrectAnswer" : "verify the link status on the computer's network card",
+      "IsImageQuestion" : "false",
+      "OptA" : "reinstall the network protocols",
+      "OptB" : "reinstall the network interface card driver",
+      "OptC" : "verify the ip configuration on the workstation",
+      "OptD" : "verify the link status on the computer's network card",
+      "Question" : "A workstation has just been installed on an Ethernet LAN, but cannot communicate with the network. What should you check first?"
+    }, {
+      "CorrectAnswer" : "The area where all of the processing takes place",
+      "IsImageQuestion" : "false",
+      "OptA" : "The device that sends the monitor signals telling it what to display",
+      "OptB" : "The area that regulates all of the system power usage",
+      "OptC" : "The area where ail the of the Basic input/output routines are stored",
+      "OptD" : "The area where all of the processing takes place",
+      "Question" : "One of the major components of a PC is the Central Processing Unit (CPU) which can be best described as:"
+    }, {
+      "CorrectAnswer" : "40",
+      "IsImageQuestion" : "false",
+      "OptA" : "25",
+      "OptB" : "50",
+      "OptC" : "100",
+      "OptD" : "40",
+      "Question" : " IDE cables have how many pins?"
+    }, {
+      "CorrectAnswer" : "note where in the paper path the paper stops",
+      "IsImageQuestion" : "false",
+      "OptA" : "note where in the paper path the paper stops",
+      "OptB" : "check all voltages",
+      "OptC" : "look up error codes",
+      "OptD" : "turn the printer off, then on again",
+      "Question" : " An important first step in troubleshooting which component in a laser printer is causing a jam is to:"
+    }, {
+      "CorrectAnswer" : "SMTP",
+      "IsImageQuestion" : "false",
+      "OptA" : "FTP",
+      "OptB" : "SMTP",
+      "OptC" : "TELNET",
+      "OptD" : "SNMP",
+      "Question" : " Which protocol provides e-mail facility among different hosts?"
+    }, {
+      "CorrectAnswer" : "Megabytes",
+      "IsImageQuestion" : "false",
+      "OptA" : "Bytes",
+      "OptB" : "Kilobytes",
+      "OptC" : "Bits",
+      "OptD" : "Megabytes",
+      "Question" : "The memory sizes in mainframe computers and advanced technology micro computer are expressed as"
+    }, {
+      "CorrectAnswer" : "JH Van Tassell",
+      "IsImageQuestion" : "false",
+      "OptA" : "PT Fransworth",
+      "OptB" : "JH Van Tassell",
+      "OptC" : "Charles Ginsberg",
+      "OptD" : "Charles Babbage",
+      "Question" : "Who invented the super computer?"
+    }, {
+      "CorrectAnswer" : "Icons",
+      "IsImageQuestion" : "false",
+      "OptA" : "Task bar",
+      "OptB" : "Windows",
+      "OptC" : "Icons",
+      "OptD" : "Desktop",
+      "Question" : "Graphical pictures that represent an object like file, folder etc are:"
+    }, {
+      "CorrectAnswer" : "SMTP",
+      "IsImageQuestion" : "false",
+      "OptA" : "FTP",
+      "OptB" : "SSH",
+      "OptC" : "POP3",
+      "OptD" : "SMTP",
+      "Question" : "Which network protocol is used to send e-mail?"
+    }, {
+      "CorrectAnswer" : "1971",
+      "IsImageQuestion" : "false",
+      "OptA" : "1963",
+      "OptB" : "1969",
+      "OptC" : "1971",
+      "OptD" : "1974",
+      "Question" : "When was the first e-mail sent?"
+    }, {
+      "CorrectAnswer" : "All of the above",
+      "IsImageQuestion" : "false",
+      "OptA" : "Memory",
+      "OptB" : "Processor",
+      "OptC" : "Disk and I/O Devices",
+      "OptD" : "All of the above",
+      "Question" : "The operating system manages?"
+    }, {
+      "CorrectAnswer" : "Modem",
+      "IsImageQuestion" : "false",
+      "OptA" : "Computers",
+      "OptB" : "Modem",
+      "OptC" : "Printer",
+      "OptD" : "Cable",
+      "Question" : "Which of the following items is not used in LAN?"
+    }, {
+      "CorrectAnswer" : "Asks for information",
+      "IsImageQuestion" : "false",
+      "OptA" : "Asks for information",
+      "OptB" : "Provides information and files",
+      "OptC" : "Serves software files to other computers",
+      "OptD" : "Distributes data files to other computers",
+      "Question" : "In a client/server model, a client program _______."
+    }, {
+      "CorrectAnswer" : "Microsoft Windows",
+      "IsImageQuestion" : "false",
+      "OptA" : "Microsoft Word",
+      "OptB" : "Microsoft Excel",
+      "OptC" : "Microsoft Access",
+      "OptD" : "Microsoft Windows",
+      "Question" : "Which one of the following is an example of Operating System?"
+    } ],
+    "Cricket" : [ null, {
+      "CorrectAnswer" : "Brian Lara",
+      "IsImageQuestion" : "false",
+      "OptA" : "Don Bradman",
+      "OptB" : "Brian Lara",
+      "OptC" : "Lane Hutton",
+      "OptD" : "Gary Sobers",
+      "Question" : "Which cricketer had scored highest individual score in first-class cricket?"
+    }, {
+      "CorrectAnswer" : "Rohit Sharma",
+      "IsImageQuestion" : "false",
+      "OptA" : "Virender Sehwag",
+      "OptB" : "Chris Gayle",
+      "OptC" : "Rohit Sharma",
+      "OptD" : "Martin Guptill",
+      "Question" : "Which cricketer had scored highest individual score in ODI cricket?"
+    }, {
+      "CorrectAnswer" : "Jack Hobbs",
+      "IsImageQuestion" : "false",
+      "OptA" : "Lane Hutton",
+      "OptB" : "Wally Hammond",
+      "OptC" : "Jack Hobbs",
+      "OptD" : "Sachin Tendulkar",
+      "Question" : "Which cricketer had scored most centuries in first-class cricket?"
+    }, {
+      "CorrectAnswer" : "AB de Villiers",
+      "IsImageQuestion" : "false",
+      "OptA" : "Virat kohli",
+      "OptB" : "Corey Anderson",
+      "OptC" : "AB de Villiers",
+      "OptD" : "Shahid Afridi",
+      "Question" : "Which cricketer had scored fastest century in ODI cricket?"
+    }, {
+      "CorrectAnswer" : "Mahela Jayawardene",
+      "IsImageQuestion" : "false",
+      "OptA" : "Mahela Jayawardene",
+      "OptB" : "Ricky Ponting",
+      "OptC" : "Jacques Kallis",
+      "OptD" : "Mark Waugh",
+      "Question" : "Which cricketer has taken most catches in ODI cricket?"
+    }, {
+      "CorrectAnswer" : "Brian Lara",
+      "IsImageQuestion" : "false",
+      "OptA" : "Brian Lara",
+      "OptB" : "Sanath Jayasuriya",
+      "OptC" : "Matthew Hayden",
+      "OptD" : "Sachin Tendulkar",
+      "Question" : "Which cricketer had scored highest individual score in Test cricket?"
+    }, {
+      "CorrectAnswer" : "Brendon McCullum",
+      "IsImageQuestion" : "false",
+      "OptA" : "Adam Gilchrist",
+      "OptB" : "Misbah-ul-Haq",
+      "OptC" : "Brendon McCullum",
+      "OptD" : "Virat Kohli",
+      "Question" : "Which cricketer had scored fastest century in Test cricket?"
+    }, {
+      "CorrectAnswer" : "Graham Gooch",
+      "IsImageQuestion" : "false",
+      "OptA" : "Sunil Gavaskar",
+      "OptB" : "Graham Gooch",
+      "OptC" : "Don Bradman",
+      "OptD" : "Don Bradman",
+      "Question" : "Which cricketer had scored most runs in a Test match?"
+    }, {
+      "CorrectAnswer" : "Don Bradman",
+      "IsImageQuestion" : "false",
+      "OptA" : "Hanif Mohammad",
+      "OptB" : "Sunil Gavaskar",
+      "OptC" : "Don Bradman",
+      "OptD" : "Kumar Sangakkara",
+      "Question" : "Which cricketer had scored most runs in a Test series?"
+    }, {
+      "CorrectAnswer" : "Mohamed Yusuf",
+      "IsImageQuestion" : "false",
+      "OptA" : "Steve Waugh",
+      "OptB" : "V. V. S. Laxman",
+      "OptC" : "Rahul Dravid",
+      "OptD" : "Mohamed Yusuf",
+      "Question" : "Which cricketer had scored most test runs in a calendar year?"
+    }, {
+      "CorrectAnswer" : "Virat Kohli",
+      "IsImageQuestion" : "false",
+      "OptA" : "M S dhoni",
+      "OptB" : "Virat Kohli",
+      "OptC" : "Ricky Ponting",
+      "OptD" : "Sourav Ganguly",
+      "Question" : "..........broke the record for being the quickest to 3000 ODI runs as captain"
+    }, {
+      "CorrectAnswer" : "MS dhoni",
+      "IsImageQuestion" : "false",
+      "OptA" : "MS dhoni",
+      "OptB" : "Darren Sammy",
+      "OptC" : "Rohit Sharma",
+      "OptD" : "Shahid Afridi",
+      "Question" : "Most T20I Matches Won as Captain"
+    }, {
+      "CorrectAnswer" : "Rahul Tripathi",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Frahul%20tripathi.jpg?alt=media&token=7fed2726-7d83-49c7-b416-197e491b9ce0",
+      "OptA" : "Kl Rahul",
+      "OptB" : "Karun Nair",
+      "OptC" : "Rahul Tripathi",
+      "OptD" : "Washington Sundar",
+      "Question" : "Guess the Player Name from pic?"
+    }, {
+      "CorrectAnswer" : "AB de Villiers (SA)",
+      "IsImageQuestion" : "false",
+      "OptA" : "Shane Watson (Aus)",
+      "OptB" : "Luke Ronchi (NZ)",
+      "OptC" : "AB de Villiers (SA)",
+      "OptD" : "",
+      "Question" : ".......... hits fastest ODI 150"
+    }, {
+      "CorrectAnswer" : "5 November 1988",
+      "IsImageQuestion" : "false",
+      "OptA" : "5 December 1988",
+      "OptB" : "5 November 1988",
+      "OptC" : "5 January 1988",
+      "OptD" : "5 August1988",
+      "Question" : "Birthdate of Virat Kohli?"
+    }, {
+      "CorrectAnswer" : "is a leg spin bowler who also bats right-handed",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fadam.jpeg?alt=media&token=41d7102f-d4a7-4deb-a576-54967f26740d",
+      "OptA" : "is a off spin bowler who also bats right-handed",
+      "OptB" : "is a leg spin bowler who also bats left-handed",
+      "OptC" : "is a leg spin bowler who also bats right-handed",
+      "OptD" : "is a off spin bowler who also bats left-handed",
+      "Question" : "Adam Zampa......."
+    }, {
+      "CorrectAnswer" : "is a left handed batsman and right-arm off-spinner",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fwash.jpg?alt=media&token=1a9a0283-eb69-4957-b1d4-09cb0cc43f48",
+      "OptA" : "is a left handed batsman and right-arm off-spinner",
+      "OptB" : "is a leg spin bowler who also bats left-handed",
+      "OptC" : "is a leg spin bowler who also bats right-handed",
+      "OptD" : "",
+      "Question" : "Washington Sundar......"
+    }, {
+      "CorrectAnswer" : "Haseeb Hameed",
+      "IsImageQuestion" : "false",
+      "OptA" : "Adil Rashid",
+      "OptB" : "Moeen Ali",
+      "OptC" : "Haseeb Hameed",
+      "OptD" : "Amar Virdi",
+      "Question" : "Primarily a right-handed batsman, he also bowls right-arm leg spin"
+    }, {
+      "CorrectAnswer" : "is a left-handed batsman and bowler",
+      "IsImageQuestion" : "false",
+      "OptA" : "is a right-handed batsman and bowler",
+      "OptB" : "is a left-handed batsman and bowler",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "David Willey"
+    }, {
+      "CorrectAnswer" : "plays for the Australia",
+      "IsImageQuestion" : "false",
+      "OptA" : "plays for the Australia",
+      "OptB" : "plays for the South Africa",
+      "OptC" : "plays for the England",
+      "OptD" : "plays for the new zealand",
+      "Question" : "Aaron finch"
+    }, {
+      "CorrectAnswer" : "Adam Milne",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2FAdam%20Milne.jpg?alt=media&token=26ee286c-17a3-4a11-b1ef-54519d654289",
+      "OptA" : "Lockie Ferguson",
+      "OptB" : "Anaru Kitchen",
+      "OptC" : "Mitchell Santner",
+      "OptD" : "Adam Milne",
+      "Question" : "Name of the right-arm fast bowler from pic?"
+    }, {
+      "CorrectAnswer" : "Alex Hales",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Falex.jpg?alt=media&token=c4d12d8e-a06a-4459-96d7-6147cd089d5e",
+      "OptA" : "Alex Hales",
+      "OptB" : "Jason Roy",
+      "OptC" : "Eoin Morgan",
+      "OptD" : "Joe Root",
+      "Question" : "is a right-handed opening batsman from pic?"
+    }, {
+      "CorrectAnswer" : "Bhuvneshwar Kumar",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fbhuvi1.jpg?alt=media&token=16105918-2f86-4e7a-8489-b8fd73be696a",
+      "OptA" : "Ishant Sharma",
+      "OptB" : "Mohammad shami",
+      "OptC" : "Umesh Yadav",
+      "OptD" : "Bhuvneshwar Kumar",
+      "Question" : "first Indian bowler to take a five-wicket haul in all formats of the game?"
+    }, {
+      "CorrectAnswer" : "brendon mccullum",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fbrendon.jpg?alt=media&token=f0f24f34-209e-41c3-8988-540bb98a5b47",
+      "OptA" : "Kane Williamson",
+      "OptB" : "brendon mccullum",
+      "OptC" : "Martin Guptill",
+      "OptD" : "Trent Boult",
+      "Question" : "is a former New Zealand international cricketer"
+    }, {
+      "CorrectAnswer" : "Chris Woakes",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fchris.jpg?alt=media&token=4ac8d14b-1b39-4927-9d89-124f56bc2964",
+      "OptA" : "Jos Buttler",
+      "OptB" : "Jonny Bairstow",
+      "OptC" : "Chris Woakes",
+      "OptD" : "Chris Jordan",
+      "Question" : "is a right-handed batsman and a right-arm fast-medium pace bowler from pic?"
+    }, {
+      "CorrectAnswer" : "Corey Anderson",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fcorey.jpeg?alt=media&token=41b022d7-c695-4362-b715-9d5bc4905b81",
+      "OptA" : "Corey Anderson",
+      "OptB" : "Ross Taylor",
+      "OptC" : "Colin Munro",
+      "OptD" : "Matt Henry",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Deepak Chahar",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fdeepak.jpg?alt=media&token=51aff4cb-7f6f-49ba-9fac-d2502b913e59",
+      "OptA" : "Washington Sundar",
+      "OptB" : "Deepak Chahar",
+      "OptC" : "Baba Aparajith",
+      "OptD" : "Krunal Pandya",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Colin de Grandhomme",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fdehome.jpg?alt=media&token=24722611-23a6-4e64-a8e7-b98c464fd146",
+      "OptA" : "Lockie Ferguson",
+      "OptB" : "Anaru Kitchen",
+      "OptC" : "Mitchell Santner",
+      "OptD" : "Colin de Grandhomme",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Eoin Morgan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Feoin.jpg?alt=media&token=83a78ebd-75d7-45a4-a0e5-1f21f2f0a150",
+      "OptA" : "Ben Stokes",
+      "OptB" : "Eoin Morgan",
+      "OptC" : "Jos Buttler",
+      "OptD" : "Moeen Ali",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Grant Elliott",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2FGrant%20Elliott.jpg?alt=media&token=e9b2b861-1bf9-4b89-8761-f035119f0916",
+      "OptA" : "Colin de Grandhomme",
+      "OptB" : "Colin Munro",
+      "OptC" : "Grant Elliott",
+      "OptD" : "Mitchell Santner",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Jasprit Bumrah",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fhardik.jpg?alt=media&token=ca3a862a-b70d-41eb-b62c-f25184ed5337",
+      "OptA" : "Kl Rahul",
+      "OptB" : "Hardik Pandya",
+      "OptC" : "Krunal Pandya",
+      "OptD" : "Ambati Rayudu",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Henry Nicholls",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2FHenry%20Nicholls.jpg?alt=media&token=cb81d879-9d94-43fa-9e72-5c548f30ce10",
+      "OptA" : "Henry Nicholls",
+      "OptB" : "Anaru Kitchen",
+      "OptC" : "Mitchell Santner",
+      "OptD" : "Adam Milne",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Jake Ball",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fjake%20ball.jpg?alt=media&token=3d3b370e-75a0-4794-aa83-d02754aafb14",
+      "OptA" : "Chris Woakes",
+      "OptB" : "Jake Ball",
+      "OptC" : "Paul Collingwood",
+      "OptD" : "Keaton Jennings",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Jonny Bairstow",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fjonny.jpg?alt=media&token=7226d47d-2ae8-4b54-ad5f-c422a28c1b6c",
+      "OptA" : "Eoin Morgan",
+      "OptB" : "Jonny Bairstow",
+      "OptC" : "Ben Stokes",
+      "OptD" : "Adam Milne",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Jos Buttler",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fjos.jpg?alt=media&token=730ccd2d-ac4e-4865-b6f2-7cf7917b2d19",
+      "OptA" : "Ben Stokes",
+      "OptB" : "Alex Hales",
+      "OptC" : "Joe Root",
+      "OptD" : "Jos Buttler",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Jason Roy",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fjson.jpg?alt=media&token=116aeda8-4ea4-43cd-8b84-a0b46eb4d430",
+      "OptA" : "Alex Hales",
+      "OptB" : "Sam Billings",
+      "OptC" : "Jonny Bairstow",
+      "OptD" : "Jason Roy",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Kane Williamson",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fkane.jpg?alt=media&token=542e10b0-8edf-4680-a420-42b8d765f730",
+      "OptA" : "Lockie Ferguson",
+      "OptB" : "Anaru Kitchen",
+      "OptC" : "Kane Williamson",
+      "OptD" : "Adam Milne",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "K. L. Rahul",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fkl.jpg?alt=media&token=992d50e2-922c-4f7c-999d-cf89b1cca47d",
+      "OptA" : "Murali Vijay",
+      "OptB" : "Karun Nair",
+      "OptC" : "K. L. Rahul",
+      "OptD" : "Kuldeep Yadav",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Liam Plunkett",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2FLiam%20Plunkett.jpg?alt=media&token=1ebec029-18b4-4d75-b7eb-9413ba1993f6",
+      "OptA" : "Chris Woakes",
+      "OptB" : "Stuart Broad",
+      "OptC" : "Steven Finn",
+      "OptD" : "Liam Plunkett",
+      "Question" : "Name Of the Bowler?"
+    }, {
+      "CorrectAnswer" : "Mark Wood",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fmark.jpg?alt=media&token=12aa5f97-f550-466d-8858-3271673fb530",
+      "OptA" : "Steven Finn",
+      "OptB" : "Mark Wood",
+      "OptC" : "Chris Woakes",
+      "OptD" : "Stuart Broad",
+      "Question" : "Name Of the Bowler?"
+    }, {
+      "CorrectAnswer" : "Martin Guptill",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fmartin.jpg?alt=media&token=577674b9-f217-4ff4-a899-58a81a2b8654",
+      "OptA" : "Kane Williamson",
+      "OptB" : "Brendon McCullum",
+      "OptC" : "Martin Guptill",
+      "OptD" : "Ross Taylor",
+      "Question" : "Name Of the Cricketer?"
+    }, {
+      "CorrectAnswer" : "Matthew James Henry",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fmatt%20henry.jpg?alt=media&token=4a2fe770-7e1c-4d46-96dc-3e8372b6b054",
+      "OptA" : "Mitchell McClenaghan",
+      "OptB" : "Tim Southee",
+      "OptC" : "Ish Sodhi",
+      "OptD" : "Matthew James Henry",
+      "Question" : "is Right-arm fast-medium from pic?"
+    }, {
+      "CorrectAnswer" : "Mitchell McClenaghan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2FMitchell%20McClenaghan.jpg?alt=media&token=99e9fd6a-5692-4f80-8d95-3ffbb6c7f008",
+      "OptA" : "Lockie Ferguson",
+      "OptB" : "Mitchell McClenaghan",
+      "OptC" : "Mitchell Santner",
+      "OptD" : "Adam Milne",
+      "Question" : "Left-arm fast medium from pic?"
+    }, {
+      "CorrectAnswer" : "MS Dhoni",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fmsd.jpg?alt=media&token=76db4b20-a1f7-4912-9c97-e97511af48d9",
+      "OptA" : "Wriddhiman Saha",
+      "OptB" : "MS Dhoni",
+      "OptC" : "K L Rahul",
+      "OptD" : "Sourav Ganguly",
+      "Question" : "Name Of The Indian Player from pic?"
+    }, {
+      "CorrectAnswer" : "Colin Munro",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fmunro.jpg?alt=media&token=adc6ad4a-35c4-48a7-b1d9-2e9ed57a2464",
+      "OptA" : "Colin Munro",
+      "OptB" : "Kane Williamson",
+      "OptC" : "Martin Guptill",
+      "OptD" : "Mitchell Santner",
+      "Question" : "is a South-African born New Zealand international cricketer from pic?"
+    }, {
+      "CorrectAnswer" : "Ravindra Jadeja",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fravindra.png?alt=media&token=bc8a8c00-1820-40f8-b985-58e25e8bfe13",
+      "OptA" : "Ravichandran Ashwin",
+      "OptB" : "Kuldeep Yadav",
+      "OptC" : "Ravindra Jadeja",
+      "OptD" : "Yuzvendra Chahal",
+      "Question" : "left-handed middle-order batsman and slow left-arm orthodox bowler from pic?"
+    }, {
+      "CorrectAnswer" : "Sabbir Rahman",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fsabbir.jpg?alt=media&token=2d421b2b-e073-4cce-b870-f669a343e04f",
+      "OptA" : "Soumya Sarkar",
+      "OptB" : "Sabbir Rahman",
+      "OptC" : "Mehidy Hasan",
+      "OptD" : "Mosaddek Hossain",
+      "Question" : "is a right-handed batsman and legbreak bowler from pic?"
+    }, {
+      "CorrectAnswer" : "Sam Billings",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2FSam%20Billings.jpg?alt=media&token=257bb418-2899-40be-acfa-7e640144dcdf",
+      "OptA" : "Jason Roy",
+      "OptB" : "Chris Gayle",
+      "OptC" : "Sam Billings",
+      "OptD" : "Jason Roy",
+      "Question" : "is a right-handed batsman who fields as a wicket-keeper from pic?"
+    }, {
+      "CorrectAnswer" : "Mitchell Santner",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fsantner.jpg?alt=media&token=0c9dd84a-6754-47c3-809c-c12c7501d690",
+      "OptA" : "IshSodhi",
+      "OptB" : "Mitchell Santner",
+      "OptC" : "Tim Southee",
+      "OptD" : "Mitchell McClenaghan",
+      "Question" : "is an all-rounder who bats left-handed, and bowls slow left-arm off spin."
+    }, {
+      "CorrectAnswer" : "Ish Sodhi",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fsodhi.gif?alt=media&token=fa25b682-6593-4148-aab5-e93b35c73c13",
+      "OptA" : "Lockie Ferguson",
+      "OptB" : "Ish Sodhi",
+      "OptC" : "Mitchell Santner",
+      "OptD" : "Adam Milne",
+      "Question" : "bowls right-arm leg spin, and bats right-handed"
+    }, {
+      "CorrectAnswer" : "Soumya Sarkar",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fsoumya.jpg?alt=media&token=fb718d2d-01d0-4ed6-8151-3477e8318574",
+      "OptA" : "Sabbir Rahman",
+      "OptB" : "Tamim Iqbal",
+      "OptC" : "Soumya Sarkar",
+      "OptD" : "Shakib Al Hasan",
+      "Question" : "is a left-handed batsman, right arm fast-medium bowler from pic?"
+    }, {
+      "CorrectAnswer" : "Tim Southee",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fsouthee.jpg?alt=media&token=c1f05f77-cbd4-4242-a7ec-88ff44386e5b",
+      "OptA" : "Trent Boult",
+      "OptB" : "Ish Sodhi",
+      "OptC" : "Tim Southee",
+      "OptD" : "Luke Ronchi",
+      "Question" : "is a right-arm fast-medium bowler and a hard-hitting lower order batsman."
+    }, {
+      "CorrectAnswer" : "Tom Curran",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Ftom.jpg?alt=media&token=ba2b8ef0-f630-44f5-b5b9-4faa6f2a2ae2",
+      "OptA" : "Sam Curran",
+      "OptB" : "Tom Curran",
+      "OptC" : "Ben Foakes",
+      "OptD" : "Rory Burns",
+      "Question" : "Whats the name of right-handed batsman who bowls right-arm fast-medium in pic."
+    }, {
+      "CorrectAnswer" : "Virat Kohli",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/cricket%2Fviirat.jpg?alt=media&token=8c993869-aad5-4dc3-a401-a036f2967e5b",
+      "OptA" : "Yuvraj Singh",
+      "OptB" : "Sachin Tendulkar",
+      "OptC" : "Rohit Sharma",
+      "OptD" : "Virat Kohli",
+      "Question" : "Whats the name of  elegant right-handed batsman in pic?"
+    } ],
+    "English" : [ null, {
+      "CorrectAnswer" : "Amateur",
+      "IsImageQuestion" : "false",
+      "OptA" : "Amateur",
+      "OptB" : "Amatuere",
+      "OptC" : "Amatuere",
+      "OptD" : "Amatuere",
+      "Question" : "Choose the correct spelling : "
+    }, {
+      "CorrectAnswer" : "Benefitted",
+      "IsImageQuestion" : "false",
+      "OptA" : "Benefited",
+      "OptB" : "Benefitted",
+      "OptC" : "Benifitted",
+      "OptD" : "Benifited",
+      "Question" : "Select the word with correct spelling"
+    }, {
+      "CorrectAnswer" : "Servant",
+      "IsImageQuestion" : "false",
+      "OptA" : "Servent",
+      "OptB" : "Sarvent",
+      "OptC" : "Servant",
+      "OptD" : "Sarvant",
+      "Question" : "Find the correctly spelt word : "
+    }, {
+      "CorrectAnswer" : "Committee",
+      "IsImageQuestion" : "false",
+      "OptA" : "Comittee",
+      "OptB" : "Commitee",
+      "OptC" : "Committee",
+      "OptD" : "Committey",
+      "Question" : "Spot the correct spelling : "
+    }, {
+      "CorrectAnswer" : "Aniversary",
+      "IsImageQuestion" : "false",
+      "OptA" : "Annex",
+      "OptB" : "Aniversary",
+      "OptC" : "Animate",
+      "OptD" : "Animosity",
+      "Question" : "Find the mis-spelt word: "
+    }, {
+      "CorrectAnswer" : "Ilicit",
+      "IsImageQuestion" : "false",
+      "OptA" : "Imperative",
+      "OptB" : "Ilicit",
+      "OptC" : "Imminent",
+      "OptD" : "Immature",
+      "Question" : "From the given group of words, choose the word wrongly spelt : "
+    }, {
+      "CorrectAnswer" : "Feugitive",
+      "IsImageQuestion" : "false",
+      "OptA" : "Feudal",
+      "OptB" : "Fumble",
+      "OptC" : "Fuel",
+      "OptD" : "Feugitive",
+      "Question" : "Choose the word wrongly spelt: "
+    }, {
+      "CorrectAnswer" : "Teatotaller",
+      "IsImageQuestion" : "false",
+      "OptA" : "Teaser",
+      "OptB" : "Teething",
+      "OptC" : "Tedious",
+      "OptD" : "Teatotaller",
+      "Question" : "choose the word wrongly spelt: "
+    }, {
+      "CorrectAnswer" : "Shakespeare",
+      "IsImageQuestion" : "false",
+      "OptA" : "Shakespear",
+      "OptB" : "Shakespeare",
+      "OptC" : "Shakspiear",
+      "OptD" : "Shakespear",
+      "Question" : "Find out the correct spelling (A great writer) : "
+    }, {
+      "CorrectAnswer" : "put off",
+      "IsImageQuestion" : "false",
+      "OptA" : "put on",
+      "OptB" : "put of",
+      "OptC" : "put away",
+      "OptD" : "put off",
+      "Question" : "The Chairman is ill and we'll have to ________ the meeting for a few days. "
+    }, {
+      "CorrectAnswer" : "had finished",
+      "IsImageQuestion" : "false",
+      "OptA" : "is finished",
+      "OptB" : "was finished",
+      "OptC" : "had finished",
+      "OptD" : "not finished",
+      "Question" : "He told me that he _______ watching he movie. "
+    }, {
+      "CorrectAnswer" : "too",
+      "IsImageQuestion" : "false",
+      "OptA" : "so",
+      "OptB" : "very",
+      "OptC" : "too",
+      "OptD" : "more",
+      "Question" : "I do my work ________ carefully to make mistakes. "
+    }, {
+      "CorrectAnswer" : "at",
+      "IsImageQuestion" : "false",
+      "OptA" : "in",
+      "OptB" : "about",
+      "OptC" : "at",
+      "OptD" : "for",
+      "Question" : "He is very good _______ making stories. "
+    }, {
+      "CorrectAnswer" : "implausible",
+      "IsImageQuestion" : "false",
+      "OptA" : "inplausible",
+      "OptB" : "unplausible",
+      "OptC" : "implausible",
+      "OptD" : "displausible",
+      "Question" : "Antonym of \"Plausible\"."
+    }, {
+      "CorrectAnswer" : "strength",
+      "IsImageQuestion" : "false",
+      "OptA" : "energy",
+      "OptB" : "intensity",
+      "OptC" : "vehemence",
+      "OptD" : "strength",
+      "Question" : "Antonym of \"Frailty\"."
+    }, {
+      "CorrectAnswer" : "boorish",
+      "IsImageQuestion" : "false",
+      "OptA" : "stupid",
+      "OptB" : "stingy",
+      "OptC" : "boorish",
+      "OptD" : "unkind",
+      "Question" : "Antonym of \"Genial\"."
+    }, {
+      "CorrectAnswer" : "build",
+      "IsImageQuestion" : "false",
+      "OptA" : "shift",
+      "OptB" : "build",
+      "OptC" : "repeat",
+      "OptD" : "hide",
+      "Question" : "Antonym of \"Demolish\"."
+    }, {
+      "CorrectAnswer" : "Unimportant",
+      "IsImageQuestion" : "false",
+      "OptA" : "Hindmost",
+      "OptB" : "Unimportant",
+      "OptC" : "Disposed",
+      "OptD" : "Premature",
+      "Question" : "Antonym for \"Foremost\"."
+    }, {
+      "CorrectAnswer" : "Ugly",
+      "IsImageQuestion" : "false",
+      "OptA" : "Wonderful",
+      "OptB" : "Graceful",
+      "OptC" : "Ugly",
+      "OptD" : "Handsome",
+      "Question" : "Antonym for \"Beautiful\"."
+    }, {
+      "CorrectAnswer" : "Deserts",
+      "IsImageQuestion" : "false",
+      "OptA" : "Defends",
+      "OptB" : "Deprives",
+      "OptC" : "Deserts",
+      "OptD" : "Devises",
+      "Question" : "Antonym for \"Protect\"."
+    }, {
+      "CorrectAnswer" : "Weak",
+      "IsImageQuestion" : "false",
+      "OptA" : "Forcible",
+      "OptB" : "Forceful",
+      "OptC" : "Weak",
+      "OptD" : "Tough",
+      "Question" : "Antonym for \"Mighty\"."
+    }, {
+      "CorrectAnswer" : "Debasement",
+      "IsImageQuestion" : "false",
+      "OptA" : "Splendour",
+      "OptB" : "Notoriety",
+      "OptC" : "Fame",
+      "OptD" : "Debasement",
+      "Question" : "Antonym for \"Glory\". "
+    }, {
+      "CorrectAnswer" : "Retrogression",
+      "IsImageQuestion" : "false",
+      "OptA" : "Retardation",
+      "OptB" : "Retrogression",
+      "OptC" : "Transgression",
+      "OptD" : "Progress",
+      "Question" : "Antonym for \"Development\"."
+    }, {
+      "CorrectAnswer" : "Drive",
+      "IsImageQuestion" : "false",
+      "OptA" : "Drive",
+      "OptB" : "Jettison",
+      "OptC" : "Burst",
+      "OptD" : "Acclimatize",
+      "Question" : "Synonym for \"PROPEL\". "
+    }, {
+      "CorrectAnswer" : "Huge",
+      "IsImageQuestion" : "false",
+      "OptA" : "Lump sum",
+      "OptB" : "Strong",
+      "OptC" : "Little",
+      "OptD" : "Huge",
+      "Question" : "Synonym for \"MASSIVE\". "
+    }, {
+      "CorrectAnswer" : "Hurdle",
+      "IsImageQuestion" : "false",
+      "OptA" : "Argument",
+      "OptB" : "Frustration",
+      "OptC" : "Advantage",
+      "OptD" : "Hurdle",
+      "Question" : "Synonym for \"STUMBLING BLOCK\". "
+    }, {
+      "CorrectAnswer" : "Postpone",
+      "IsImageQuestion" : "false",
+      "OptA" : "Indifferent",
+      "OptB" : "Defy",
+      "OptC" : "Differ",
+      "OptD" : "Postpone",
+      "Question" : "Synonym for \"DEFER\". "
+    }, {
+      "CorrectAnswer" : "Stop",
+      "IsImageQuestion" : "false",
+      "OptA" : "Begin",
+      "OptB" : "Stop",
+      "OptC" : "Create",
+      "OptD" : "Dull",
+      "Question" : "Synonym for \"CEASE\". "
+    }, {
+      "CorrectAnswer" : "Religious",
+      "IsImageQuestion" : "false",
+      "OptA" : "Religious",
+      "OptB" : "Sympathetic",
+      "OptC" : "Afraid",
+      "OptD" : "Faithful",
+      "Question" : "Synonym for \"PIOUS\". "
+    }, {
+      "CorrectAnswer" : "Abolish",
+      "IsImageQuestion" : "false",
+      "OptA" : "Abolish",
+      "OptB" : "Approve",
+      "OptC" : "Allow",
+      "OptD" : "Break",
+      "Question" : "Synonym for \"CANCEL\". "
+    }, {
+      "CorrectAnswer" : "Forsake",
+      "IsImageQuestion" : "false",
+      "OptA" : "Forsake",
+      "OptB" : "Keep",
+      "OptC" : "Cherish",
+      "OptD" : "Enlarge",
+      "Question" : "Synonym for \"ABANDON\". "
+    }, {
+      "CorrectAnswer" : "Breed",
+      "IsImageQuestion" : "false",
+      "OptA" : "Decay",
+      "OptB" : "Breed",
+      "OptC" : "Produce",
+      "OptD" : "Sprout",
+      "Question" : "Synonym for \"GERMINATE\"."
+    }, {
+      "CorrectAnswer" : "in",
+      "IsImageQuestion" : "false",
+      "OptA" : "in",
+      "OptB" : "on",
+      "OptC" : "at",
+      "OptD" : "to",
+      "Question" : " I'll be ready to leave ____ about twenty minutes."
+    }, {
+      "CorrectAnswer" : "at",
+      "IsImageQuestion" : "false",
+      "OptA" : "on",
+      "OptB" : "in",
+      "OptC" : "at",
+      "OptD" : "for",
+      "Question" : " Since he met his new girlfriend, Juan never seems to be ______ home."
+    }, {
+      "CorrectAnswer" : "by",
+      "IsImageQuestion" : "false",
+      "OptA" : "with",
+      "OptB" : "by",
+      "OptC" : "from",
+      "OptD" : "to",
+      "Question" : "The child responded to his mother's demands ______ throwing a tantrum."
+    }, {
+      "CorrectAnswer" : "on",
+      "IsImageQuestion" : "false",
+      "OptA" : "on",
+      "OptB" : "at",
+      "OptC" : "by",
+      "OptD" : "in",
+      "Question" : "I think she spent the entire afternoon ______ the phone."
+    }, {
+      "CorrectAnswer" : "until",
+      "IsImageQuestion" : "false",
+      "OptA" : "from",
+      "OptB" : "by",
+      "OptC" : "until",
+      "OptD" : "at",
+      "Question" : "I will wait ______ 6:30, but then I'm going home."
+    }, {
+      "CorrectAnswer" : "in",
+      "IsImageQuestion" : "false",
+      "OptA" : "in",
+      "OptB" : "at",
+      "OptC" : "from",
+      "OptD" : "",
+      "Question" : "The police caught the thief _____ the corner of Cascade and Plum Streets."
+    }, {
+      "CorrectAnswer" : "for",
+      "IsImageQuestion" : "false",
+      "OptA" : "for",
+      "OptB" : "with",
+      "OptC" : "to",
+      "OptD" : "",
+      "Question" : "My fingers were injured so my sister had to write the note _____ me."
+    }, {
+      "CorrectAnswer" : "in",
+      "IsImageQuestion" : "false",
+      "OptA" : "to",
+      "OptB" : "for",
+      "OptC" : "in",
+      "OptD" : "",
+      "Question" : " I am not interested _____ buying a new car now."
+    }, {
+      "CorrectAnswer" : "since",
+      "IsImageQuestion" : "false",
+      "OptA" : "since",
+      "OptB" : "for",
+      "OptC" : "until",
+      "OptD" : "",
+      "Question" : " It's been snowing ________ Christmas morning."
+    }, {
+      "CorrectAnswer" : "in",
+      "IsImageQuestion" : "false",
+      "OptA" : "to",
+      "OptB" : "in",
+      "OptC" : "at",
+      "OptD" : "",
+      "Question" : "I told Mom we'd be home ______ an hour or so."
+    }, {
+      "CorrectAnswer" : "a",
+      "IsImageQuestion" : "false",
+      "OptA" : "a",
+      "OptB" : "an",
+      "OptC" : "the",
+      "OptD" : "",
+      "Question" : "Lisa saw _____ shooting star yesterday."
+    }, {
+      "CorrectAnswer" : "the",
+      "IsImageQuestion" : "false",
+      "OptA" : "a",
+      "OptB" : "an",
+      "OptC" : "the",
+      "OptD" : "",
+      "Question" : "Don't look directly at _____ sun."
+    }, {
+      "CorrectAnswer" : "the",
+      "IsImageQuestion" : "false",
+      "OptA" : "a",
+      "OptB" : "an",
+      "OptC" : "the",
+      "OptD" : "",
+      "Question" : "Is there any milk left in _____ fridge?"
+    }, {
+      "CorrectAnswer" : "an",
+      "IsImageQuestion" : "false",
+      "OptA" : "a",
+      "OptB" : "an",
+      "OptC" : "the",
+      "OptD" : "",
+      "Question" : "I need to pack _____ apple for my lunch."
+    } ],
+    "General Knowledge" : [ null, {
+      "CorrectAnswer" : "largest railway station",
+      "IsImageQuestion" : "false",
+      "OptA" : "largest railway station",
+      "OptB" : "highest railway station",
+      "OptC" : "longest railway station",
+      "OptD" : "None of the above",
+      "Question" : "Grand Central Terminal, Park Avenue, New York is the world's "
+    }, {
+      "CorrectAnswer" : "Africa",
+      "IsImageQuestion" : "false",
+      "OptA" : "Asia",
+      "OptB" : "Africa",
+      "OptC" : "Europe",
+      "OptD" : "Australia",
+      "Question" : "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of"
+    }, {
+      "CorrectAnswer" : "Diphu, Assam",
+      "IsImageQuestion" : "false",
+      "OptA" : "Junagarh, Gujarat",
+      "OptB" : "Diphu, Assam",
+      "OptC" : "Kohima, Nagaland",
+      "OptD" : "Gangtok, Sikkim",
+      "Question" : "Garampani sanctuary is located at "
+    }, {
+      "CorrectAnswer" : "Nazi Party",
+      "IsImageQuestion" : "false",
+      "OptA" : "Labour Party",
+      "OptB" : "Nazi Party",
+      "OptC" : "Ku-Klux-Klan",
+      "OptD" : "Democratic Party",
+      "Question" : "Hitler party which came into power in 1933 is known as "
+    }, {
+      "CorrectAnswer" : "Film Finance Corporation",
+      "IsImageQuestion" : "false",
+      "OptA" : "Foreign Finance Corporation",
+      "OptB" : "Film Finance Corporation",
+      "OptC" : "Federation of Football Council",
+      "OptD" : "None of the above",
+      "Question" : "FFC stands for "
+    }, {
+      "CorrectAnswer" : "Dr. G. D. Bist",
+      "IsImageQuestion" : "false",
+      "OptA" : "Dr. G. D. Bist",
+      "OptB" : "J.R.D. Tata",
+      "OptC" : "J.M. Tagore",
+      "OptD" : "Khudada Khan",
+      "Question" : "Fastest shorthand writer was "
+    }, {
+      "CorrectAnswer" : "Horse racing",
+      "IsImageQuestion" : "false",
+      "OptA" : "Horse racing",
+      "OptB" : "Polo",
+      "OptC" : "Shooting",
+      "OptD" : "Snooker",
+      "Question" : "Epsom (England) is the place associated with"
+    }, {
+      "CorrectAnswer" : "Fiji",
+      "IsImageQuestion" : "false",
+      "OptA" : "USA",
+      "OptB" : "Fiji",
+      "OptC" : "India",
+      "OptD" : "UK",
+      "Question" : "Golf player Vijay Singh belongs to which country?"
+    }, {
+      "CorrectAnswer" : "1839",
+      "IsImageQuestion" : "false",
+      "OptA" : "1839",
+      "OptB" : "1843",
+      "OptC" : "1833",
+      "OptD" : "1848",
+      "Question" : "First Afghan War took place in "
+    }, {
+      "CorrectAnswer" : "China and Britain",
+      "IsImageQuestion" : "false",
+      "OptA" : "China and Britain",
+      "OptB" : "China and France",
+      "OptC" : "China and Egypt",
+      "OptD" : "China and Greek",
+      "Question" : "First China War was fought between "
+    }, {
+      "CorrectAnswer" : "May 8",
+      "IsImageQuestion" : "false",
+      "OptA" : "May 8",
+      "OptB" : "May 18",
+      "OptC" : "June 8",
+      "OptD" : "June 18",
+      "Question" : "Each year World Red Cross and Red Crescent Day is celebrated on "
+    }, {
+      "CorrectAnswer" : "Khajuraho temples",
+      "IsImageQuestion" : "false",
+      "OptA" : "Khajuraho temples",
+      "OptB" : "Jama Masjid",
+      "OptC" : "Sun temple",
+      "OptD" : "Mahabalipuram temples",
+      "Question" : "Famous sculptures depicting art of love built some time in 950 AD – 1050 AD are "
+    }, {
+      "CorrectAnswer" : "suspended particulate matter",
+      "IsImageQuestion" : "false",
+      "OptA" : "SOx",
+      "OptB" : "NOx",
+      "OptC" : "suspended particulate matter",
+      "OptD" : "CO",
+      "Question" : "Gravity setting chambers are used in industries to remove "
+    }, {
+      "CorrectAnswer" : "All of the above",
+      "IsImageQuestion" : "false",
+      "OptA" : "Nagaland",
+      "OptB" : "Arunachal Pradesh",
+      "OptC" : "Assam",
+      "OptD" : "All of the above",
+      "Question" : "Guwahati High Court is the judicature of"
+    }, {
+      "CorrectAnswer" : "sliding to rolling",
+      "IsImageQuestion" : "false",
+      "OptA" : "sliding to rolling",
+      "OptB" : "rolling to sliding",
+      "OptC" : "potential energy to kinetic energy",
+      "OptD" : "dynamic to static",
+      "Question" : "Friction can be reduced by changing from"
+    }, {
+      "CorrectAnswer" : "Pune (Maharashtra)",
+      "IsImageQuestion" : "false",
+      "OptA" : "Pune (Maharashtra)",
+      "OptB" : "Rajkot (Gujarat)",
+      "OptC" : "Pimpri (Maharashtra)",
+      "OptD" : "Perambur (Tamilnadu)",
+      "Question" : "Film and TV institute of India is located at"
+    }, {
+      "CorrectAnswer" : "1992",
+      "IsImageQuestion" : "false",
+      "OptA" : "1991",
+      "OptB" : "1992",
+      "OptC" : "1993",
+      "OptD" : "1994",
+      "Question" : "Georgia, Uzbekistan and Turkmenistan became the members of UNO in"
+    }, {
+      "CorrectAnswer" : "1940",
+      "IsImageQuestion" : "false",
+      "OptA" : "1940",
+      "OptB" : "1941",
+      "OptC" : "1942",
+      "OptD" : "1943",
+      "Question" : "During World War II, when did Germany attack France?"
+    }, {
+      "CorrectAnswer" : "November 11, 1918",
+      "IsImageQuestion" : "false",
+      "OptA" : "January 19, 1918",
+      "OptB" : "May 30, 1918",
+      "OptC" : "November 11, 1918",
+      "OptD" : "February 15, 1918",
+      "Question" : "Germany signed the Armistice Treaty on ____ and World War I ended"
+    }, {
+      "CorrectAnswer" : "Mosquito",
+      "IsImageQuestion" : "false",
+      "OptA" : "Bacteria",
+      "OptB" : "Mosquito",
+      "OptC" : "Protozoa",
+      "OptD" : "Virus",
+      "Question" : "Filaria is caused by"
+    }, {
+      "CorrectAnswer" : "1957",
+      "IsImageQuestion" : "false",
+      "OptA" : "1958",
+      "OptB" : "1957",
+      "OptC" : "1956",
+      "OptD" : "1955",
+      "Question" : "Goa Shipyard Limited (GSL) was established in"
+    }, {
+      "CorrectAnswer" : "Gen. K.M. Cariappa",
+      "IsImageQuestion" : "false",
+      "OptA" : "Gen. K.M. Cariappa",
+      "OptB" : "Vice-Admiral R.D. Katari",
+      "OptC" : "Gen. Maharaja Rajendra Singhji",
+      "OptD" : "None of the above",
+      "Question" : "Who was the first Indian Chief of Army Staff of the Indian Army ? "
+    }, {
+      "CorrectAnswer" : "Fellow of Royal Society",
+      "IsImageQuestion" : "false",
+      "OptA" : "Fellow Research System",
+      "OptB" : "Federation of Regulation Society",
+      "OptC" : "Fellow of Royal Society",
+      "OptD" : "None of the above",
+      "Question" : "FRS stands for"
+    }, {
+      "CorrectAnswer" : "Rameshwaram",
+      "IsImageQuestion" : "false",
+      "OptA" : "the coast of Orissa",
+      "OptB" : "Waltair",
+      "OptC" : "Rameshwaram",
+      "OptD" : "Trivandrum",
+      "Question" : "Coral reefs in India can be found in "
+    }, {
+      "CorrectAnswer" : "largest Gurdwara",
+      "IsImageQuestion" : "false",
+      "OptA" : "largest Gurdwara",
+      "OptB" : "oldest Gurudwara",
+      "OptC" : "Both option A and B are correct",
+      "OptD" : "None of the above",
+      "Question" : "Golden Temple, Amritsar is India's "
+    }, {
+      "CorrectAnswer" : "2002",
+      "IsImageQuestion" : "false",
+      "OptA" : "2000",
+      "OptB" : "2001",
+      "OptC" : "2002",
+      "OptD" : "2003",
+      "Question" : "Hamid Karzai was chosen president of Afghanistan in "
+    }, {
+      "CorrectAnswer" : "Football",
+      "IsImageQuestion" : "false",
+      "OptA" : "Cricket",
+      "OptB" : "Football",
+      "OptC" : "Hockey",
+      "OptD" : "Volleyball",
+      "Question" : "Durand Cup is associated with the game of "
+    }, {
+      "CorrectAnswer" : "New York, USA",
+      "IsImageQuestion" : "false",
+      "OptA" : "New York, USA",
+      "OptB" : "Hague (Netherlands)",
+      "OptC" : "Geneva",
+      "OptD" : "Paris",
+      "Question" : "Headquarters of UNO are situated at "
+    }, {
+      "CorrectAnswer" : "1843 AD",
+      "IsImageQuestion" : "false",
+      "OptA" : "1564 AD",
+      "OptB" : "1798 AD",
+      "OptC" : "1843 AD",
+      "OptD" : "1901 AD",
+      "Question" : "First International Peace Congress was held in London in "
+    }, {
+      "CorrectAnswer" : "Third World Nations",
+      "IsImageQuestion" : "false",
+      "OptA" : "First World Nations",
+      "OptB" : "Second World Nations",
+      "OptC" : "Third World Nations",
+      "OptD" : "Fourth World Nations",
+      "Question" : "G-15 is an economic grouping of "
+    }, {
+      "CorrectAnswer" : "Ocean depth",
+      "IsImageQuestion" : "false",
+      "OptA" : "Earthquakes",
+      "OptB" : "Rainfall",
+      "OptC" : "Ocean depth",
+      "OptD" : "Sound intensity",
+      "Question" : "Fathometer is used to measure "
+    }, {
+      "CorrectAnswer" : "Zinc",
+      "IsImageQuestion" : "false",
+      "OptA" : "Aluminium",
+      "OptB" : "Copper",
+      "OptC" : "Lead",
+      "OptD" : "Zinc",
+      "Question" : "For galvanizing iron which of the following metals is used? "
+    }, {
+      "CorrectAnswer" : "1958 in Tokyo",
+      "IsImageQuestion" : "false",
+      "OptA" : "1958 in Tokyo",
+      "OptB" : "1962 in Jakarta",
+      "OptC" : "1966 in Bangkok",
+      "OptD" : "1970 in Bangkok",
+      "Question" : "Hockey was introduced in the Asian Games in"
+    }, {
+      "CorrectAnswer" : "Darjeeling",
+      "IsImageQuestion" : "false",
+      "OptA" : "Darjeeling",
+      "OptB" : "Dehradun",
+      "OptC" : "Marmago",
+      "OptD" : "Dispur",
+      "Question" : "Himalayan Mountaineering Institute is at"
+    }, {
+      "CorrectAnswer" : "Gorkha National Liberation Front",
+      "IsImageQuestion" : "false",
+      "OptA" : "Gorkha National Liberation Front",
+      "OptB" : "Gross National Liberation Form",
+      "OptC" : "Both option A and B",
+      "OptD" : "None of the above",
+      "Question" : "GNLF stands for "
+    }, {
+      "CorrectAnswer" : "1914",
+      "IsImageQuestion" : "false",
+      "OptA" : "1914",
+      "OptB" : "1915",
+      "OptC" : "1916",
+      "OptD" : "1917",
+      "Question" : "In which year of First World War Germany declared war on Russia and France?"
+    }, {
+      "CorrectAnswer" : "mica",
+      "IsImageQuestion" : "false",
+      "OptA" : "gold",
+      "OptB" : "copper",
+      "OptC" : "mica",
+      "OptD" : "None of the above",
+      "Question" : "India has largest deposits of ____ in the world."
+    }, {
+      "CorrectAnswer" : "Aryabhatta",
+      "IsImageQuestion" : "false",
+      "OptA" : "Aryabhatta",
+      "OptB" : "Bhaskara II",
+      "OptC" : "Bhaskara I",
+      "OptD" : "Albert Einstein",
+      "Question" : "India's first satellite is named after"
+    }, {
+      "CorrectAnswer" : "Apsara",
+      "IsImageQuestion" : "false",
+      "OptA" : "Zerlina",
+      "OptB" : "Dhruva",
+      "OptC" : "Apsara",
+      "OptD" : "Kamini",
+      "Question" : "India's first atomic reactor was"
+    }, {
+      "CorrectAnswer" : "1991",
+      "IsImageQuestion" : "false",
+      "OptA" : "1981",
+      "OptB" : "1991",
+      "OptC" : "1995",
+      "OptD" : "2000",
+      "Question" : "India's first ocean wave's energy project was launched in"
+    }, {
+      "CorrectAnswer" : "methane",
+      "IsImageQuestion" : "false",
+      "OptA" : "ethane",
+      "OptB" : "methane",
+      "OptC" : "hydrogen",
+      "OptD" : "carbon dioxide",
+      "Question" : "The chief constituent of gobar gas is"
+    }, {
+      "CorrectAnswer" : "May 31, 1981",
+      "IsImageQuestion" : "false",
+      "OptA" : "May 31, 1981",
+      "OptB" : "April 17, 1983",
+      "OptC" : "December 21, 1999",
+      "OptD" : "December 28, 1995",
+      "Question" : " The first development flight of SLV-3 took place on"
+    }, {
+      "CorrectAnswer" : "gas-fired power project",
+      "IsImageQuestion" : "false",
+      "OptA" : "hydro-electric project",
+      "OptB" : "thermal power project",
+      "OptC" : "atomic power project",
+      "OptD" : "gas-fired power project",
+      "Question" : "The Enron project is a"
+    }, {
+      "CorrectAnswer" : "Jalkheri, Punjab",
+      "IsImageQuestion" : "false",
+      "OptA" : "Kolkata",
+      "OptB" : "Jalkheri, Punjab",
+      "OptC" : "Trombay, Maharashtra",
+      "OptD" : "None of the above",
+      "Question" : "The first rice straw power plant has been set up at"
+    }, {
+      "CorrectAnswer" : "All of the above",
+      "IsImageQuestion" : "false",
+      "OptA" : "Austria, Denmark, Norway",
+      "OptB" : "Portugal, Sweden, Switzerland",
+      "OptC" : "UK, Austria, Sweden",
+      "OptD" : "All of the above",
+      "Question" : "The founder member of EFTA are"
+    }, {
+      "CorrectAnswer" : "Hyderabad",
+      "IsImageQuestion" : "false",
+      "OptA" : "Hyderabad",
+      "OptB" : "Sydney",
+      "OptC" : "Cairo",
+      "OptD" : "Kuala Lumpur",
+      "Question" : "The first Afro-Asian Games were held in"
+    }, {
+      "CorrectAnswer" : "once year",
+      "IsImageQuestion" : "false",
+      "OptA" : "once a month",
+      "OptB" : "after every three months",
+      "OptC" : "twice a year",
+      "OptD" : "once year",
+      "Question" : "The General Assembly meets regularly"
+    }, {
+      "CorrectAnswer" : "Lucknow",
+      "IsImageQuestion" : "false",
+      "OptA" : "Pune",
+      "OptB" : "Udhampur",
+      "OptC" : "Lucknow",
+      "OptD" : "Mhow",
+      "Question" : "The Central Command of Army is located at"
+    }, {
+      "CorrectAnswer" : "Baird",
+      "IsImageQuestion" : "false",
+      "OptA" : "Faraday",
+      "OptB" : "Baird",
+      "OptC" : "Edison",
+      "OptD" : "Marconi",
+      "Question" : "The credit of inventing the television goes to"
+    }, {
+      "CorrectAnswer" : "1957",
+      "IsImageQuestion" : "false",
+      "OptA" : "1957",
+      "OptB" : "1955",
+      "OptC" : "1967",
+      "OptD" : "1970",
+      "Question" : "The first man-made satellite, Sputnik I was launched by the former USSR in"
+    } ],
+    "Hollywood" : [ null, {
+      "CorrectAnswer" : "Alexandra Daddario",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2FAlexandra%20Daddario.jpg?alt=media&token=8d7bf1ea-97b7-4e21-82a8-d25c01285e73",
+      "OptA" : "Alexandra Daddario",
+      "OptB" : "jennifer lawrence",
+      "OptC" : "Sophie turner",
+      "OptD" : "Marilyn Monroe",
+      "Question" : "Identify The Actress?"
+    }, {
+      "CorrectAnswer" : "Loki",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Floki.gif?alt=media&token=eb0142aa-c70f-4934-a861-c48f5307a486",
+      "OptA" : "Captain America",
+      "OptB" : "Iron Man",
+      "OptC" : "Thor",
+      "OptD" : "Loki",
+      "Question" : "Which Of The Movie Character is Famous?"
+    }, {
+      "CorrectAnswer" : "Chris Martin",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fjennifer%20lawrence.jpg?alt=media&token=8231104b-128f-4097-8915-dc3f03c41d6c",
+      "OptA" : "Chris Martin",
+      "OptB" : "Adam Levine",
+      "OptC" : "Dave Grohl",
+      "OptD" : "Fabrizio Moretti",
+      "Question" : "Which rockstar was Jennifer Lawrence rumored to have been dating this year?"
+    }, {
+      "CorrectAnswer" : "Amber Heard",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Famber%20heard.jpg?alt=media&token=d9d8e08d-a4d4-47e1-a36d-ab7f05d1c2b0",
+      "OptA" : "Marilyn Monroe",
+      "OptB" : "Sophie Turner",
+      "OptC" : "Alexandra Daddario",
+      "OptD" : "Amber Heard",
+      "Question" : "Identify The Actress?"
+    }, {
+      "CorrectAnswer" : "Barbados",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Frihhana.jpg?alt=media&token=e8669d0c-91d0-47ee-9221-31064e9700f8",
+      "OptA" : "Aruba",
+      "OptB" : "Dominican Republic",
+      "OptC" : "Bahamas",
+      "OptD" : "Barbados",
+      "Question" : "Which island nation is popstar Rihanna from?"
+    }, {
+      "CorrectAnswer" : "Black Panther",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fblack%20panther.jpg?alt=media&token=28dcada4-9c3d-45d6-8c8d-8314a39217a9",
+      "OptA" : "Spider Man",
+      "OptB" : "Super Man",
+      "OptC" : "Black Panther",
+      "OptD" : "",
+      "Question" : "Can You Identify Movie Character?"
+    }, {
+      "CorrectAnswer" : "Captain America",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fcaptain%20america.jpg?alt=media&token=9d2e7fec-55c0-4d9e-bca3-17ba783082bf",
+      "OptA" : "Spider Man",
+      "OptB" : "Super Man",
+      "OptC" : "Black Panther",
+      "OptD" : "Captain America",
+      "Question" : "Identify The Movie Character?"
+    }, {
+      "CorrectAnswer" : "Hershlag",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fnatallie.jpg?alt=media&token=c2d7d685-f19a-4230-9b05-376e9c16b795",
+      "OptA" : "Hershing",
+      "OptB" : "Horowitz",
+      "OptC" : "Hershlag",
+      "OptD" : "Douglas",
+      "Question" : "what's Natalie Portman's actual last name?"
+    }, {
+      "CorrectAnswer" : "Captain Jack Sparrow",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fcaptain%20jack.jpg?alt=media&token=26c55b38-e9cd-4301-ac38-71efe5d39340",
+      "OptA" : "Will Turner",
+      "OptB" : "Davy Jones",
+      "OptC" : "Captain Jack Sparrow",
+      "OptD" : "Captain America",
+      "Question" : "Identify The Movie Character?"
+    }, {
+      "CorrectAnswer" : "3",
+      "IsImageQuestion" : "https://img.buzzfeed.com/buzzfeed-static/static/2014-10/30/20/tmp/webdr08/e980984d124b48bcbde6a25629d5681a-24.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+      "OptA" : "4",
+      "OptB" : "5",
+      "OptC" : "3",
+      "OptD" : "2",
+      "Question" : "How many Hemsworth brothers are there?"
+    }, {
+      "CorrectAnswer" : "Chloë Grace Moretz",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fchloe%20grace%20martez.jpg?alt=media&token=c81c7f3c-1d78-47cb-8a54-bf0a3e60636b",
+      "OptA" : "Chloë Grace Moretz",
+      "OptB" : "Selena Gomez",
+      "OptC" : "Alexandra Daddario",
+      "OptD" : "Chris Hemsworth",
+      "Question" : "Identify The Actress Name?"
+    }, {
+      "CorrectAnswer" : "Ben Gibbard",
+      "IsImageQuestion" : "https://img.buzzfeed.com/buzzfeed-static/static/2014-10/31/13/tmp/webdr07/05e2d44decb08fbe62498d2431c96336-18.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+      "OptA" : "Ben Gibbard",
+      "OptB" : "Justin Vernon",
+      "OptC" : "Mat Kearney",
+      "OptD" : "Luke Pritchard",
+      "Question" : "Do you know which indie frontman Zooey Deschanel used to be married to?"
+    }, {
+      "CorrectAnswer" : "Clint Barton",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2FClint%20Barton.jpg?alt=media&token=b128c2d6-e2e2-42f3-af06-70bc28f84139",
+      "OptA" : "Robert Downey Jr",
+      "OptB" : "Clint Barton",
+      "OptC" : "Mark Ruffalo",
+      "OptD" : "",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Cody Christian",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2FCody%20Christian.jpg?alt=media&token=46c67d4a-3a3b-4807-9e21-381239a97f84",
+      "OptA" : "Will Turner",
+      "OptB" : "Cody Christian",
+      "OptC" : "Mark Ruffalo",
+      "OptD" : "",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Deadpool",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fdeadpool.jpg?alt=media&token=3957dfcd-cefb-4e2b-b104-14a72a1b6bc3",
+      "OptA" : "Deadpool",
+      "OptB" : "Colossus",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "Identify The Movie Character?"
+    }, {
+      "CorrectAnswer" : "Emma Stone",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Femma%20stone.jpg?alt=media&token=93928641-5545-4426-9a4f-dead41c68ef3",
+      "OptA" : "Emma Stone",
+      "OptB" : "Selena Gomez",
+      "OptC" : "Alexandra Daddario",
+      "OptD" : "Emma Watson",
+      "Question" : "Identify The Actress Name?"
+    }, {
+      "CorrectAnswer" : "Emma Watson",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Femma%20watson.jpg?alt=media&token=d6965149-7b54-42bc-9e7a-978696beab81",
+      "OptA" : "Emma Stone",
+      "OptB" : "Selena Gomez",
+      "OptC" : "Alexandra Daddario",
+      "OptD" : "Emma Watson",
+      "Question" : "Identify The Actress Name?"
+    }, {
+      "CorrectAnswer" : "Eva Green",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Feva%20green.jpg?alt=media&token=9ee0a16d-3952-4d4b-a30e-c07a90277f93",
+      "OptA" : "Emma Stone",
+      "OptB" : "Emilia Clarke",
+      "OptC" : "Eva Green",
+      "OptD" : "Emma Watson",
+      "Question" : "Identify The Actress Name?"
+    }, {
+      "CorrectAnswer" : "Gal Gadot",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fgal%20gadot.jpg?alt=media&token=1218a029-dd71-4846-b30e-5203dd5e4bc4",
+      "OptA" : "Gal Gadot",
+      "OptB" : "Emilia Clarke",
+      "OptC" : "Eva Green",
+      "OptD" : "Emma Watson",
+      "Question" : "Identify The Actress Name?"
+    }, {
+      "CorrectAnswer" : "Hugh Jackman",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fhugh%20jackman.jpg?alt=media&token=e064ba05-ea84-4b02-a4a6-3acf5b5bf7bc",
+      "OptA" : "Ian Jackman",
+      "OptB" : "Hugh Jackman",
+      "OptC" : "Mark Ruffalo",
+      "OptD" : "Ralph Jackman",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Robert Downey Jr",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Firon%20man2.jpg?alt=media&token=88745284-fee7-472f-8c12-4838ffb9391a",
+      "OptA" : "Adrian Petriw",
+      "OptB" : "Clint Barton",
+      "OptC" : "Loki",
+      "OptD" : "Robert Downey Jr",
+      "Question" : "Identify The Movie Character?"
+    }, {
+      "CorrectAnswer" : "Julia Roberts",
+      "IsImageQuestion" : "https://img.buzzfeed.com/buzzfeed-static/static/2014-10/30/20/tmp/webdr07/9d730e5d6405a9fb99945442f0094ed4-12.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+      "OptA" : "Catherine Zeta-Jones",
+      "OptB" : "Julia Roberts",
+      "OptC" : "Melanie Griffith",
+      "OptD" : "Meg Ryan",
+      "Question" : "Which actor was country singer Lyle Lovett once married to?"
+    }, {
+      "CorrectAnswer" : "2005",
+      "IsImageQuestion" : "https://img.buzzfeed.com/buzzfeed-static/static/2014-10/31/12/tmp/webdr12/461b106fb7689fa03bf932916da911fe-20.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+      "OptA" : "2004",
+      "OptB" : "2005",
+      "OptC" : "2006",
+      "OptD" : "2007",
+      "Question" : "in what year did Angelina Jolie and Brad Pitt get together?"
+    }, {
+      "CorrectAnswer" : "Niall Horan",
+      "IsImageQuestion" : "https://img.buzzfeed.com/buzzfeed-static/static/2014-10/31/12/tmp/webdr01/44ed0e236d1e730a7bc726d147c64188-8.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+      "OptA" : "Louis Tomlinson",
+      "OptB" : "Zayn Malik",
+      "OptC" : "Harry Styles",
+      "OptD" : "Niall Horan",
+      "Question" : "which One Direction member is Ed Sheeran's Don't reportedly about?"
+    }, {
+      "CorrectAnswer" : "Jennifer Lopez",
+      "IsImageQuestion" : "false",
+      "OptA" : "Justin Timberlake",
+      "OptB" : "Will Smith",
+      "OptC" : "Jennifer Lopez",
+      "OptD" : "Beyoncé",
+      "Question" : "Who was the first person to have a No. 1 album and a No. 1 film in the same week?"
+    }, {
+      "CorrectAnswer" : "Jackie Chan",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fjackie%20chan.jpg?alt=media&token=5a134fd8-7cb8-4652-988b-e450acb1f0eb",
+      "OptA" : "Stephen Chow",
+      "OptB" : "Jackie Chan",
+      "OptC" : "Jet Li",
+      "OptD" : "",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Amy Adams",
+      "IsImageQuestion" : "false",
+      "OptA" : "Justin Timberlake",
+      "OptB" : "Will Smith",
+      "OptC" : "Amy Adams",
+      "OptD" : "Beyoncé",
+      "Question" : "do you know which of these actors was born outside of the United States?"
+    }, {
+      "CorrectAnswer" : "Johnny Depp",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fjohny%20deep2.jpg?alt=media&token=36e7c345-60ac-4584-8f3e-2f64ae7925d3",
+      "OptA" : "Johnny Depp",
+      "OptB" : "Robert Downey Jr",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Natalie Portman",
+      "IsImageQuestion" : "false",
+      "OptA" : "Bradley Cooper",
+      "OptB" : "Jodie Foster",
+      "OptC" : "Diane Kruger",
+      "OptD" : "Natalie Portman",
+      "Question" : "Which one of these stars is NOT fluent in French?"
+    }, {
+      "CorrectAnswer" : "Santa Barbara",
+      "IsImageQuestion" : "https://img.buzzfeed.com/buzzfeed-static/static/2014-10/31/13/tmp/webdr06/d15a274c8ad7d4bdd732444279fe6dee-0.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+      "OptA" : "San Diego",
+      "OptB" : "Santa Cruz",
+      "OptC" : "Santa Barbara",
+      "OptD" : "San Francisco",
+      "Question" : "Katy Perry is a California girl. But do you know WHICH city she's from?"
+    }, {
+      "CorrectAnswer" : "Johnny Depp",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fjohny%20deep3.jpg?alt=media&token=2e01b8d1-a6ed-43b7-9e9f-a8ff2b56711d",
+      "OptA" : "Johnny Depp",
+      "OptB" : "Robert Downey Jr",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Julia roberts",
+      "IsImageQuestion" : "false",
+      "OptA" : "Catherine zeta-jones",
+      "OptB" : "Cameron Diaz",
+      "OptC" : "Julia roberts",
+      "OptD" : "Jennifer aniston",
+      "Question" : "Actor Leonardo DiCaprio stars in the 2004 movie \"The aviator\"?"
+    }, {
+      "CorrectAnswer" : "Justin Timberlake",
+      "IsImageQuestion" : "false",
+      "OptA" : "JC Chassez",
+      "OptB" : "Nick Carter",
+      "OptC" : "AJ Mclean",
+      "OptD" : "Justin Timberlake",
+      "Question" : "Which band member went solo with a cd called \"Justified\" ?"
+    }, {
+      "CorrectAnswer" : "True",
+      "IsImageQuestion" : "false",
+      "OptA" : "True",
+      "OptB" : "False",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "Shakira made her US debut with the song \"Whenever, Wherever\"..."
+    }, {
+      "CorrectAnswer" : "Nelly",
+      "IsImageQuestion" : "false",
+      "OptA" : "Nelly",
+      "OptB" : "50 cent",
+      "OptC" : "T.I",
+      "OptD" : "Ja rule",
+      "Question" : "Which rapper sings the song \"Hot in herre\" ?"
+    }, {
+      "CorrectAnswer" : "Nelly",
+      "IsImageQuestion" : "false",
+      "OptA" : "Nelly",
+      "OptB" : "50 cent",
+      "OptC" : "T.I",
+      "OptD" : "Ja rule",
+      "Question" : "Which rapper sings the song \"Hot in herre\" ?"
+    }, {
+      "CorrectAnswer" : "True",
+      "IsImageQuestion" : "false",
+      "OptA" : "True",
+      "OptB" : "False",
+      "OptC" : "",
+      "OptD" : "",
+      "Question" : "Reese Witherspoon is an actress ?"
+    }, {
+      "CorrectAnswer" : "Jennifer Aniston",
+      "IsImageQuestion" : "false",
+      "OptA" : "Jennifer Lopez",
+      "OptB" : "Jennifer love hewitt",
+      "OptC" : "Jennifer Garner",
+      "OptD" : "Jennifer Aniston",
+      "Question" : "Which actress married Brad Pitt?"
+    }, {
+      "CorrectAnswer" : "Keira Knightley",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fkeira%20knightley.jpg?alt=media&token=c5a4105a-d551-49a2-bd19-9d7cedb3239c",
+      "OptA" : "Keira Knightley",
+      "OptB" : "Emilia Clarke",
+      "OptC" : "Eva Green",
+      "OptD" : "Jennifer Lawrence",
+      "Question" : "Identify The Actress Name?"
+    }, {
+      "CorrectAnswer" : "Jojo",
+      "IsImageQuestion" : "false",
+      "OptA" : "Avril Lavigne",
+      "OptB" : "Jojo",
+      "OptC" : "Jesse M",
+      "OptD" : "Hilary Duff",
+      "Question" : "Which 13-year old debuted in 2004 with the single: \"Get out(leave)\" ?"
+    }, {
+      "CorrectAnswer" : "Lindsay Lohan",
+      "IsImageQuestion" : "false",
+      "OptA" : "Lindsay Lohan",
+      "OptB" : "Avril Lavigne",
+      "OptC" : "Hilary Duff",
+      "OptD" : "Ashley Olsen",
+      "Question" : "Which teen queen stars in the movies \"Freaky Friday\" and \"Mean Girls"
+    }, {
+      "CorrectAnswer" : "Kristen Stewart",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2Fkristen%20stewards.jpg?alt=media&token=460e197d-c448-4284-a741-ccb29d7f882f",
+      "OptA" : "Keira Knightley",
+      "OptB" : "Kristen Stewart",
+      "OptC" : "Eva Green",
+      "OptD" : "Jennifer Lawrence",
+      "Question" : "Identify The Actress Name?"
+    }, {
+      "CorrectAnswer" : "Celine Dion",
+      "IsImageQuestion" : "false",
+      "OptA" : "Whitney Houston",
+      "OptB" : "Celine Dion",
+      "OptC" : "Celine Dion",
+      "OptD" : "Gloria Estefan",
+      "Question" : "Who in 2001 released a cd titled \"A new day has come\" ?"
+    }, {
+      "CorrectAnswer" : "Leonardo DiCaprio",
+      "IsImageQuestion" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Hollywood%2FLeonardo%20Di%20Caprio.jpg?alt=media&token=d7e65627-8ee3-404c-bc6b-876649f7d68c",
+      "OptA" : "Johnny Depp",
+      "OptB" : "Robert Downey Jr",
+      "OptC" : "Leonardo DiCaprio",
+      "OptD" : "",
+      "Question" : "Identify The Actor Name?"
+    }, {
+      "CorrectAnswer" : "Jason Lee",
+      "IsImageQuestion" : "false",
+      "OptA" : "Johnny Depp",
+      "OptB" : "Jason Lee",
+      "OptC" : "Leonardo DiCaprio",
+      "OptD" : "Hugh Jackman",
+      "Question" : "He shocked the industry when he named his first child Pilot Inspektor."
+    }, {
+      "CorrectAnswer" : "Kristen Stewart",
+      "IsImageQuestion" : "false",
+      "OptA" : "Kristen Stewart",
+      "OptB" : "Jennifer Lawrence",
+      "OptC" : "Scarlett Johansson",
+      "OptD" : "Blake Lively",
+      "Question" : "This actress was caught cheating on her longtime boyfriend with the married director of a film she starred in."
+    }, {
+      "CorrectAnswer" : "Whitney Houston",
+      "IsImageQuestion" : "false",
+      "OptA" : "Aaliyah",
+      "OptB" : "Amy Winehouse",
+      "OptC" : "Scarlett Johansson",
+      "OptD" : "Whitney Houston",
+      "Question" : "On the eve of the 2012 Grammy Awards, this singer died of a drug overdose."
+    }, {
+      "CorrectAnswer" : "Amanda Bynes",
+      "IsImageQuestion" : "false",
+      "OptA" : "Sarah Hyland",
+      "OptB" : "Amanda Bynes",
+      "OptC" : "Miley Cyrus",
+      "OptD" : "Emma Stone",
+      "Question" : "She has called more than 15 people \"ugly\" on Twitter, including Drake and Jenny McCarthy."
+    }, {
+      "CorrectAnswer" : "Paula Deen",
+      "IsImageQuestion" : "false",
+      "OptA" : "Paula Deen",
+      "OptB" : "Amanda Bynes",
+      "OptC" : "Miley Cyrus",
+      "OptD" : "Emma Stone",
+      "Question" : "Her media empire crumbled after she admitted to using racial slurs."
+    }, {
+      "CorrectAnswer" : "Tim Allen",
+      "IsImageQuestion" : "false",
+      "OptA" : "Johnny Depp",
+      "OptB" : "John Stamos",
+      "OptC" : "Mark Wahlberg",
+      "OptD" : "Tim Allen",
+      "Question" : "In 1979, he was sentenced to 15 months in federal prison for drug trafficking."
+    } ]
+  },
+  "Subjects" : [ null, {
+    "categoryid" : "2",
+    "subid" : "2",
+    "subimage" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Category%2F4.png?alt=media&token=68cb1685-fd37-4aaf-bf18-805e7afd678f",
+    "subname" : "Hollywood"
+  }, {
+    "categoryid" : "2",
+    "subid" : "1",
+    "subimage" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Category%2F5.png?alt=media&token=bf38b690-3e4a-4e6f-b003-fe23431a7ca9",
+    "subname" : "Bollywood"
+  }, {
+    "categoryid" : "5",
+    "subid" : "3",
+    "subimage" : "https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/Category%2Fcricket.png?alt=media&token=aed39153-8704-4f90-b221-b03660887436",
+    "subname" : "Cricket"
+  } ]
+}

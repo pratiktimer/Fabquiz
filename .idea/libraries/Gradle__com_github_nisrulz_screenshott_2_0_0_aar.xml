@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nisrulz:screenshott:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/screenshott-2.0.0.aar/b33bd76e22f3b1db1f09b29350ceacd4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/screenshott-2.0.0.aar/b33bd76e22f3b1db1f09b29350ceacd4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/screenshott/2.0.0/5b472cd7aa297a0b79f62cc11fe4936e8c7e50fd/screenshott-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

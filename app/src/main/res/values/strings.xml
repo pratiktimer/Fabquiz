@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Fabquiz</string>
+    <string name="play">PLAY</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="button">Button</string>
+    <string name="firstrule">•&#160;&#160;You have 20 seconds to answer each question.</string>
+    <string name="sndrule">•&#160;&#160;You Have 3 lives and 5 Questions.</string>
+    <string name="thirdrule">•&#160;&#160;At the end you will get your score</string>
+    <string name="fourthrule">•&#160;&#160;If Answered before 17 you get 20 points else based on time exactly answered.</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="the_following_perm_required">The Following Permission are Required :</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="enable">Enable</string>
+    <string name="cancel">Cancel</string>
+    <string name="invitation_title">Welcome To Fabquiz</string>
+    <string name="invitation_message">Check out FabQuiz,I use it to play quiz.Get it for free at</string>
+    <string name="invitation_deep_link">https://x4ts9.app.goo.gl/fabquiz</string>
+    <string name="Next">Next</string>
+    <string name="default_notification_channel_id">FabQuiz01</string>
+    <string name="fabquiz">FabQuiz</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="camera">Camera Permission is needed to upload your image</string>
+    <string name="camera_disabled">Camera Permission is Disabled Go To Settings And Enable Camera</string>
+    <string name="contact_toast">Contact Permission is needed to Challenge Your Friends</string>
+    <string name="contact_disabled">Contact Permission is Disabled Go To Settings And Enable Contact</string>
+    <string name="Save">Save</string>
+    <string name="invitation_custom_image"><![CDATA[https://firebasestorage.googleapis.com/v0/b/onlinequiz-7035a.appspot.com/o/fqlogo6.png?alt=media&token=3f260c1b-7e4d-491b-b90f-2677ffb3a9cd]]></string>
+    <string name="sign_in_why">Sign in with Google to share your scores and achievements with your friends.</string>
+    <string name="signin_other_error">There was an issue with sign in.  Please try again later.</string>
+    <string name="players_exception">There was an issue communicating with players.</string>
+    <string name="status_exception_error">%1$s (status %2$d). %3$s.</string>
+    <string name="your_progress_will_be_uploaded">Your existing achievements and score will be uploaded shortly.</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="see_your_progress">See your progress:</string>
+    <string name="show_achievements">Show Achievements</string>
+    <string name="show_leaderboards">Show Leaderboards</string>
+    <string name="achievements_exception">There was an issue communicating with achievements.</string>
+    <string name="leaderboards_exception">There was an issue communicating with leaderboards.</string>
+    <string name="achievement_prime_toast_text">Beginner Level Completed!</string>
+    <string name="achievement">Achievement</string>
+
+
+    <string name="single_player_explanation">Get some practice!</string>
+    <string name="quick_game">Quick game</string>
+    <string name="invite_players">Invite friends</string>
+    <string name="see_invitations">See invitations</string>
+    <string name="quick_game_explanation">Challenge a random opponent.</string>
+    <string name="invite_players_explanation">Invite friends to play a game.</string>
+    <string name="see_invitations_explanation">See who is inviting you right now.</string>
+    <string name="inv_popup_text">Incoming invitation!</string>
+    <string name="accept_popup_invite">Accept!</string>
+
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="instructions">Click the button as fast as you can!</string>
+    <string name="game_problem">An error occurred while starting the game. Please try again.</string>
+    <string name="click_me">Click me!</string>
+    <string name="is_inviting_you">is challenging you to a game!</string>
+
+
+    <string name="status_multiplayer_error_not_trusted_tester">Anyone you invite must be a trusted tester</string>
+    <string name="match_error_already_rematched">This rematch has already been started!</string>
+    <string name="client_reconnect_required">Games client reconnect required</string>
+    <string name="network_error_operation_failed">Network error: Operation failed</string>
+    <string name="internal_error">Internal error</string>
+    <string name="unexpected_status">Unexpected status: %1$s</string>
+    <string name="match_error_inactive_match">This match is inactive.</string>
+    <string name='match_error_locally_modified'>This match has locally-modified data.  This operation cannot be performed until the match is sent to the server.</string>
+    <string name="score_label">%1$s - Me</string>
+
+</resources>
